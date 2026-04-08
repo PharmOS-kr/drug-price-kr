@@ -64,20 +64,32 @@ def main():
     multi = {k: v for k, v in changes.items() if len(v) >= 2}
     names = load_names()
 
-    print(f"전체 변동 제품: {len(changes)}건")
-    print(f"2회 이상 변동: {len(multi)}건\n")
+    print(f"# 2회 이상 상한금액 변동 제품")
+    print(f"")
+    print(f"- 분석 기간: {snapshots[0][0]} ~ {snapshots[-1][0]}")
+    print(f"- 전체 변동 제품: {len(changes)}건")
+    print(f"- 2회 이상 변동: {len(multi)}건")
+    print()
 
     for code in sorted(multi, key=lambda c: -len(multi[c])):
         name, company = names.get(code, ("?", "?"))
-        print(f"━━━ {name} ({company}) [제품코드:{code}]")
+        # 누적 변동률
+        first_price = int(multi[code][0][2])
+        last_price = int(multi[code][-1][3])
+        total_pct = (last_price - first_price) / first_price * 100 if first_price else 0
+        total_arrow = "↑" if total_pct > 0 else "↓"
+
+        print(f"- **{name}** — {company}")
+        print(f"  - 제품코드: {code}")
+        print(f"  - 누적: {first_price:,}원 → {last_price:,}원 ({total_arrow}{abs(total_pct):.1f}%)")
         for prev_m, curr_m, old_p, new_p in multi[code]:
             try:
                 diff = int(new_p) - int(old_p)
                 pct = diff / int(old_p) * 100 if int(old_p) else 0
                 arrow = "↑" if diff > 0 else "↓"
-                print(f"  {prev_m} → {curr_m}: {old_p} → {new_p} ({arrow}{abs(pct):.1f}%)")
+                print(f"  - {prev_m} → {curr_m}: {int(old_p):,} → {int(new_p):,} ({arrow}{abs(pct):.1f}%)")
             except ValueError:
-                print(f"  {prev_m} → {curr_m}: {old_p} → {new_p}")
+                print(f"  - {prev_m} → {curr_m}: {old_p} → {new_p}")
         print()
 
 
