@@ -866,7 +866,7 @@
 8806288017813,628801781,힐로스점안액(히알루론산나트륨)_(10mg/10mL),10,mL/병,2727,(주)휴비스트제약,530029COS,sodium hyaluronate   10mg(1mg/mL),외용,131
 8806289000128,628900010,이르딘정2밀리그램(이르소글라딘말레산염)_(2mg/1정),1,정,120,(주)이든파마,494202ATB,irsogladine maleate   2mg,내복,232
 8806289000326,628900030,플루란캡슐(플루코나졸)_(50mg/1캡슐),1,캡슐,1516,(주)이든파마,159903ACH,fluconazole   50mg,내복,629
-8806289000418,628900040,팜시나정(팜시클로비르)_(0.25g/1정),1,정,3270,(주)이든파마,157201ATB,famciclovir   0.25g,내복,629
+8806289000418,628900040,팜시나정250밀리그램(팜시클로비르)_(0.25g/1정),1,정,3270,(주)이든파마,157201ATB,famciclovir   0.25g,내복,629
 8806289000623,628900060,에페노정(에페리손염산염)_(50mg/1정),1,정,98,(주)이든파마,152301ATB,eperisone hydrochloride   50mg,내복,122
 8806289000722,628900070,리메드정2mg(글리메피리드)_(2mg/1정),1,정,157,(주)이든파마,165702ATB,glimepiride   2mg,내복,396
 8806289000937,628900090,레보플로정(레보플록사신수화물)_(0.1g/1정),1,정,482,(주)이든파마,183201ATB,levofloxacin hydrate   0.1g,내복,629
@@ -1026,7 +1026,6 @@
 8806297001117,629700111,레복스주(레보플록사신수화물)_(0.51246g/100mL),100,mL/병,14643,(주)오스코리아제약,183234BIJ,levofloxacin   0.5g(5mg/mL),주사,629
 8806297001322,629700131,오스코반코마이신주0.5g(반코마이신염산염)_(0.5g/1병),1,병,10233,(주)오스코리아제약,247205BIJ,vancomycin hydrochloride   0.5g,주사,611
 8806297002121,629700210,테비실정(테르비나핀염산염)_(0.140625g/1정),1,정,370,(주)오스코리아제약,235747ATB,terbinafine hydrochloride (as terbinafine   0.125g),내복,629
-8806297002220,629700220,알도스캡슐(에르도스테인)_(0.3g/1캡슐),1,캡슐,196,(주)오스코리아제약,153101ACH,erdosteine   0.3g,내복,222
 8806297003920,629700390,오스타틴정20밀리그램(로수바스타틴칼슘)_(20.8mg/1정),1,정,583,(주)오스코리아제약,454002ATB,rosuvastatin calcium (as rosuvastatin   20mg),내복,218
 8806297004026,629700400,오스타틴정10밀리그램(로수바스타틴칼슘)_(10.4mg/1정),1,정,520,(주)오스코리아제약,454001ATB,rosuvastatin calcium (as rosuvastatin   10mg),내복,218
 8806297004316,629700430,오클란정(아목시실린·클라불란산칼륨)_(1정),1,정,300,(주)오스코리아제약,310600ATB,"amoxicillin   0.25g, clavulanate potassium   0.125g",내복,618
@@ -1266,9 +1265,7 @@
 8806400068419,640006840,오마프원페리주_(952mL),952,mL/백,22168,에이치케이이노엔(주),635500BIJ,"calcium chloride dihydrate   0.22g(A액300ml중), glucose monohydrate (as glucose   67.34g)(B액518ml중), glycine   3.3g(A액300ml중), L-alanine   4.2g(A액300ml중), L-arginine   3.6g(A액300ml중), L-histidine   0.9g(A액300ml중), L-isoleucine   1.5g(A액300ml중), L-leucine   2.22g(A액300ml중), L-lysine acetate   2.79g(A액300ml중), L-methionine   1.29g(A액300ml중), L-phenylalanine   1.53g(A액300ml중), L-proline   3.36g(A액300ml중), L-serine   1.95g(A액300ml중), L-threonine   1.32g(A액300ml중), L-tryptophan   0.6g(A액300ml중), L-tyrosine   0.12g(A액300ml중), L-valine   1.86g(A액300ml중), magnesium sulfate heptahydrate   0.74g(A액300ml중), medium-chain triglycerides   8.04g(C액134ml중), potassium chloride   1.344g(A액300ml중), purified fish oil   4.02g(C액134ml중), purified olive oil   6.7g(C액134ml중), purified soybean oil   8.04g(C액134ml중), sodium acetate trihydrate   1.686g(A액300ml중), sodium glycerophosphate   1.25g(A액300ml중), taurine   0.3g(A액300ml중), zinc sulfate heptahydrate   7mg(A액300ml중)",주사,325
 8806400068518,640006850,오마프원페리주_(1448mL),1448,mL/백,26949,에이치케이이노엔(주),607900BIJ,"calcium chloride dihydrate   0.34g(A액456mL중), glucose monohydrate (as glucose   102.44g)(B액788mL중), glycine   5.02g(A액456mL중), L-alanine   6.38g(A액456mL중), L-arginine   5.47g(A액456mL중), L-histidine   1.368g(A액456mL중), L-isoleucine   2.28g(A액456mL중), L-leucine   3.37g(A액456mL중), L-lysine acetate   4.24g(A액456mL중), L-methionine   1.96g(A액456mL중), L-phenylalanine   2.33g(A액456mL중), L-proline   5.11g(A액456mL중), L-serine   2.96g(A액456mL중), L-threonine   2g(A액456mL중), L-tryptophan   0.91g(A액456mL중), L-tyrosine   0.18g(A액456mL중), L-valine   2.83g(A액456mL중), magnesium sulfate heptahydrate   1.13g(A액456mL중), medium-chain triglycerides   12.24g(C액204mL중), potassium chloride   2.04g(A액456mL중), purified fish oil   6.12g(C액204mL중), purified olive oil   10.2g(C액204mL중), purified soybean oil   12.24g(C액204mL중), sodium acetate trihydrate   2.56g(A액456mL중), sodium glycerophosphate   1.9g(A액456mL중), taurine   0.46g(A액456mL중), zinc sulfate heptahydrate   10mg(A액456mL중)",주사,325
 8806400068730,640006870,안플레이드SR정300밀리그램(사르포그렐레이트염산염)_(0.3g/1정),1,정,1009,에이치케이이노엔(주),226103ATR,sarpogrelate hydrochloride   0.3g,내복,339
-8806400068815,640006881,펨타주25밀리그램/밀리리터(페메트렉시드이나트륨2.5수화물)_(0.12084g/4mL),4,mL/병,126472,에이치케이이노엔(주),481230BIJ,pemetrexed disodium (as pemetrexed   0.1g(25mg/mL)),주사,421
 8806400068914,640006890,오마프원페리주_(500mL),500,mL/백,14410,에이치케이이노엔(주),636600BIJ,"calcium chloride dihydrate   0.12g(A액157.5ml중), glucose monohydrate (as glucose   35.36g)(B액272ml중), glycine   1.73g(A액157.5ml중), L-alanine   2.21g(A액157.5ml중), L-arginine   1.89g(A액157.5ml중), L-histidine   0.47g(A액157.5ml중), L-isoleucine   0.79g(A액157.5ml중), L-leucine   1.17g(A액157.5ml중), L-lysine acetate   1.46g(A액157.5ml중), L-methionine   0.68g(A액157.5ml중), L-phenylalanine   0.8g(A액157.5ml중), L-proline   1.76g(A액157.5ml중), L-serine   1.02g(A액157.5ml중), L-threonine   0.69g(A액157.5ml중), L-tryptophan   0.32g(A액157.5ml중), L-tyrosine   60mg(A액157.5ml중), L-valine   0.98g(A액157.5ml중), magnesium sulfate heptahydrate   0.39g(A액157.5ml중), medium-chain triglycerides   4.23g(C액70.5ml중), potassium chloride   0.71g(A액157.5ml중), purified fish oil   2.12g(C액70.5ml중), purified olive oil   3.53g(C액70.5ml중), purified soybean oil   4.23g(C액70.5ml중), sodium acetate trihydrate   0.89g(A액157.5ml중), sodium glycerophosphate   0.66g(A액157.5ml중), taurine   0.16g(A액157.5ml중), zinc sulfate heptahydrate   3.6mg(A액157.5ml중)",주사,325
-8806400069119,640006911,펨타주25밀리그램/밀리리터(페메트렉시드이나트륨2.5수화물)_(0.6042g/20mL),20,mL/병,455318,에이치케이이노엔(주),481231BIJ,pemetrexed disodium (as pemetrexed   0.5g(25mg/mL)),주사,421
 8806400069522,640006950,로바젯정10/10밀리그램_(1정),1,정,1124,에이치케이이노엔(주),640800ATB,"ezetimibe   10mg, rosuvastatin calcium (as rosuvastatin   10mg)",내복,218
 8806400069621,640006960,로바젯정10/5밀리그램_(1정),1,정,804,에이치케이이노엔(주),640700ATB,"ezetimibe   10mg, rosuvastatin calcium (as rosuvastatin   5mg)",내복,218
 8806400069720,640006970,로바젯정10/20밀리그램_(1정),1,정,1134,에이치케이이노엔(주),640900ATB,"ezetimibe   10mg, rosuvastatin calcium (as rosuvastatin   20mg)",내복,218
@@ -2267,7 +2264,7 @@
 8806420011754,642001170,팍세틸씨알정(파록세틴염산염수화물)_(14.25mg/1정),1,정,426,현대약품(주),209304ATR,paroxetine hydrochloride (as paroxetine   12.5mg),내복,117
 8806420011839,642001180,팍세틸정(파록세틴염산염반수화물)_(22.88mg/1정),1,정,565,현대약품(주),209302ATB,paroxetine hydrochloride (as paroxetine   20mg),내복,117
 8806420012546,642001250,"속시틴정(구연산모사프리드)_(모사프리드시트르산염이수화물, 5.29mg/1정)",1,정,70,현대약품(주),421001ATB,mosapride citrate hydrate (as mosapride   5mg),내복,239
-8806420012935,642001290,현대미녹시딜정_(5mg/1정),1,정,79,현대약품(주),196102ATB,minoxidil   5mg,내복,214
+8806420012935,642001290,현대미녹시딜정5밀리그램_(5mg/1정),1,정,79,현대약품(주),196102ATB,minoxidil   5mg,내복,214
 8806420013017,642001301,현대아시클로버크림(아시클로버)_(0.25g/5g),5,g/개,1086,현대약품(주),102935CCM,acyclovir   0.25g(50mg/g),외용,269
 8806420013321,642001330,현대제스트릴정10밀리그램(리시노프릴)_(10mg/1정),1,정,475,현대약품(주),184501ATB,lisinopril   10mg,내복,214
 8806420013420,642001340,현대테노레틱정_(1정),1,정,159,현대약품(주),262100ATB,"atenolol   50mg, chlorthalidone   12.5mg",내복,214
@@ -3021,7 +3018,6 @@
 8806424052920,642405290,닌테브로정100밀리그램(닌테다닙에실산염)_(0.1204g/1정),1,정,9000,영진약품(주),656101ATB,nintedanib esilate (as nintedanib   0.1g),내복,229
 8806424053125,642405310,콜민에스정_(1정),1,정,55,영진약품(주),419700ATB,"chlorpheniramine maleate   4mg, pseudoephedrine hydrochloride   60mg",내복,141
 8806424053217,642405321,콜민에스시럽_(500mL),500(1),mL/병,11,영진약품(주),745600ASY,"chlorpheniramine maleate   0.1g(0.2mg/mL), pseudoephedrine hydrochloride   1.5g(3mg/mL)",내복,132
-8806425001125,642500111,그로트로핀투주(소마트로핀)_(4I.U/1병),1,병,15767,동아에스티(주),348436BIJ,somatropin   4I.U(4I.U/mL),주사,241
 8806425001323,642500131,그로트로핀투주사액(소마트로핀)_(4I.U/0.5mL),0.5,mL/병,16203,동아에스티(주),348430BIJ,somatropin   4I.U(8I.U/mL),주사,241
 8806425001422,642500141,그로트로핀투주사액(소마트로핀)_(12I.U/1.5mL),1.5,mL/병,45940,동아에스티(주),348431BIJ,somatropin   12I.U(8I.U/mL),주사,241
 8806425001620,642500160,글리멜정1mg(글리메피리드)_(1mg/1정),1,정,105,동아에스티(주),165701ATB,glimepiride   1mg,내복,396
@@ -3393,7 +3389,6 @@
 8806428023919,642802390,자이피스오디정 10밀리그램(올란자핀)_(10mg/1정),1,정,1346,고려제약(주),204001ATD,olanzapine   10mg,내복,117
 8806428024138,642802410,프레가린캡슐75밀리그램(프레가발린)_(75mg/1캡슐),1,캡슐,441,고려제약(주),480401ACH,pregabalin   75mg,내복,119
 8806428024213,642802420,자이피스오디정 5밀리그램(올란자핀)_(5mg/1정),1,정,714,고려제약(주),204002ATD,olanzapine   5mg,내복,117
-8806428024527,642802451,본하이알플러스주(히알루론산나트륨)_(20mg/2mL),2,mL/관,14333,고려제약(주),530045BIJ,sodium hyaluronate   20mg(10mg/mL),주사,399
 8806428024626,642802460,레비로틴정250밀리그램(레비티라세탐)_(0.25g/1정),1,정,450,고려제약(주),488502ATB,levetiracetam   0.25g,내복,113
 8806428024725,642802470,레비로틴정500밀리그램(레비티라세탐)_(0.5g/1정),1,정,651,고려제약(주),488501ATB,levetiracetam   0.5g,내복,113
 8806428025135,642802510,프레가린캡슐150밀리그램(프레가발린)_(0.15g/1캡슐),1,캡슐,543,고려제약(주),480402ACH,pregabalin   0.15g,내복,119
@@ -3947,7 +3942,6 @@
 8806433020637,643302060,오엠피정40밀리그램(오메프라졸)_(40mg/1정),1,정,945,(주)종근당,204402ATE,omeprazole   40mg,내복,232
 8806433021016,643302101,오프벨라점안액(오플록사신)_(15mg/5mL),5,mL/병,2610,(주)종근당,203936COS,ofloxacin   15mg(3mg/mL),외용,131
 8806433022839,643302280,이모튼캡슐(아보카도-소야불검화물의추출물)_(0.30003g/1캡슐),1,캡슐,376,(주)종근당,112201ACH,avocado soya unsaponifiables   0.3g,내복,399
-8806433022921,643302290,이스모정(5-일질산이소소르비드)_(20mg/1정),1,정,100,(주)종근당,178501ATB,isosorbide mononitrate   20mg,내복,217
 8806433023034,643302300,이펙트라캡슐(이트라코나졸)_(0.1g/1캡슐),1,캡슐,1186,(주)종근당,179101ACH,itraconazole   0.1g,내복,629
 8806433026226,643302620,뉴라벨정20밀리그램(라베프라졸나트륨)_(20mg/1정),1,정,909,(주)종근당,222202ATE,rabeprazole sodium   20mg,내복,232
 8806433026318,643302630,류마이드정20밀리그램(레프루노미드)_(20mg/1정),1,정,1910,(주)종근당,434602ATB,leflunomide   20mg,내복,142
@@ -4843,7 +4837,7 @@
 8806437030830,643703080,발사르정160밀리그램(발사르탄)_(0.16g/1정),1,정,718,국제약품(주),247102ATB,valsartan   0.16g,내복,214
 8806437032636,643703260,크레로바정10밀리그램(로수바스타틴칼슘)_(10.4mg/1정),1,정,612,국제약품(주),454001ATB,rosuvastatin calcium (as rosuvastatin   10mg),내복,218
 8806437033718,643703371,국제히알우론산아이주(히알루론산나트륨)_(12.75mg/0.85mL),0.85,mL/관,21628,국제약품(주),530032BIJ,sodium hyaluronate   12.75mg(15mg/mL),주사,131
-8806437034425,643703441,레스타포린점안액0.05%(시클로스포린)_(0.2mg/0.4mL),0.4,mL/관,799,국제약품(주),475130COS,cyclosporin   0.2mg(0.5mg/mL),외용,131
+8806437034425,643703441,레스타포린점안액0.05%(사이클로스포린)(1회용)_(0.2mg/0.4mL),0.4,mL/관,799,국제약품(주),475130COS,cyclosporin   0.2mg(0.5mg/mL),외용,131
 8806437034616,643703460,알렌드로스플러스디정_(1정),1,정,4527,국제약품(주),500200ATB,"cholecalciferol concentrated powder (as vitamin D3   5.6KI.U), sodium alendronate (as alendronic acid   70mg)",내복,399
 8806437035026,643703501,히알우론산조인트주(히알루론산나트륨)_(20mg/2mL),2,mL/관,14080,국제약품(주),530045BIJ,sodium hyaluronate   20mg(10mg/mL),주사,399
 8806437035217,643703521,레보카신점안액(레보플록사신수화물)_(25mg/5mL),5,mL/병,3370,국제약품(주),183230COS,levofloxacin   25mg(5mg/mL),외용,131
@@ -5218,7 +5212,6 @@
 8806440045128,644004510,자누맥스정100밀리그램(시타글립틴인산염수화물)_(0.1285g/1정),1,정,453,삼익제약(주),501103ATB,sitagliptin phosphate hydrate (as sitagliptin   0.1g),내복,396
 8806440045333,644004530,바로다운정10/10밀리그램_(1정),1,정,637,삼익제약(주),633800ATB,"atorvastatin calcium (as atorvastatin   10mg), ezetimibe   10mg",내복,218
 8806440045432,644004540,바로다운정10/20밀리그램_(1정),1,정,808,삼익제약(주),633900ATB,"atorvastatin calcium (as atorvastatin   20mg), ezetimibe   10mg",내복,218
-8806440045531,644004550,바로다운정10/40밀리그램_(1정),1,정,1203,삼익제약(주),634800ATB,"atorvastatin calcium (as atorvastatin   40mg), ezetimibe   10mg",내복,218
 8806440046026,644004600,자누맥스엠정50/1000밀리그램_(1정),1,정,410,삼익제약(주),502300ATB,"metformin hydrochloride   1g, sitagliptin phosphate hydrate (as sitagliptin   50mg)",내복,396
 8806440046439,644004640,자누맥스엠엑스알서방정50/500밀리그램_(1정),1,정,381,삼익제약(주),709300ATR,"metformin hydrochloride   0.5g, sitagliptin hydrochloride hydrate (as sitagliptin   50mg)",내복,396
 8806440046538,644004650,자누맥스엠엑스알서방정50/1000밀리그램_(1정),1,정,420,삼익제약(주),709400ATR,"metformin hydrochloride   1g, sitagliptin hydrochloride hydrate (as sitagliptin   50mg)",내복,396
@@ -5399,15 +5392,15 @@
 8806443028715,644302871,"유니스틴주사액1mg/mL(시스플라틴)(수출명: Newplatin Inj.1mg/mL, Cytosplat Inj.1mg/mL, Nextin Inj.1mg/mL, Kupunistin Inj.1mg/mL, KU Cisplatin Inj.50mg/50mL)_(50mg/50mL)",50,mL/병,13206,한국유나이티드제약(주),134534BIJ,cisplatin   50mg(1mg/mL),주사,421
 8806443030749,644303070,"유로트린정(테라조신염산염수화물)수출명:테라넥스정(수출명:테라넥스정,KUPTERANEXTabs.)_(2.374mg/1정)",1,정,356,한국유나이티드제약(주),235502ATB,terazosin hydrochloride (as terazosin   2mg),내복,259
 8806443035812,644303581,젬타빈주2그램(젬시타빈염산염)_(2.28g/1병),1,병,157361,한국유나이티드제약(주),164932BIJ,gemcitabine hydrochloride (as gemcitabine   2g(38mg/mL)),주사,421
-8806443035959,644303590,"조이렉스정(아시클로버)(수출명: Herpex Tabs.200mg, Zoylin Tabs.)_(0.2g/1정)",1,정,549,한국유나이티드제약(주),102904ATB,acyclovir   0.2g,내복,629
-8806443036154,644303610,조이렉스정400밀리그람(아시클로버)(수출명:HerpexTabs.400mg)_(0.4g/1정),1,정,640,한국유나이티드제약(주),102907ATB,acyclovir   0.4g,내복,629
+8806443035959,644303590,"조이렉스정200밀리그램(아시클로버)(수출명: Herpex Tabs.200mg, Zoylin Tabs.)_(0.2g/1정)",1,정,549,한국유나이티드제약(주),102904ATB,acyclovir   0.2g,내복,629
+8806443036154,644303610,조이렉스정400밀리그램(아시클로버)(수출명:HerpexTabs.400mg)_(0.4g/1정),1,정,640,한국유나이티드제약(주),102907ATB,acyclovir   0.4g,내복,629
 8806443036437,644303641,"조이렉스주사액(아시클로버)(수출명:RaxcloInj.250mg/10mL,HerpexInj.250mg/10mL)_(0.25g/10mL)",10,mL/병,4016,한국유나이티드제약(주),102934BIJ,acyclovir   0.25g(25mg/mL),주사,629
 8806443038523,644303851,카르민주0.8%(인디고카르민)_(40mg/5mL),5,mL/앰플,4242,한국유나이티드제약(주),174530BIJ,indigocarmine   40mg(8mg/mL),주사,722
 8806443038745,644303870,카베돌정(카르베딜롤)_(25mg/1정),1,정,423,한국유나이티드제약(주),125002ATB,carvedilol   25mg,내복,214
 8806443038929,644303891,카보티놀주사(카르보플라틴)_(0.15g/15mL),15,mL/병,51585,한국유나이티드제약(주),123731BIJ,carboplatin   0.15g(10mg/mL),주사,421
 8806443039018,644303901,카보티놀주사(카르보플라틴)_(0.45g/45mL),45,mL/병,76151,한국유나이티드제약(주),123732BIJ,carboplatin   0.45g(10mg/mL),주사,421
 8806443040830,644304080,콜킨정(콜키신)_(0.6mg/1정),1,정,75,한국유나이티드제약(주),137801ATB,colchicine   0.6mg,내복,394
-8806443041332,644304130,"클락신정(클래리스로마이신)(수출명:OnexidTabs.,OrokinTabs.)_(0.25g/1정)",1,정,865,한국유나이티드제약(주),134901ATB,clarithromycin   0.25g,내복,619
+8806443041332,644304130,"클락신정250밀리그램(클래리트로마이신)(수출명:OnexidTabs.,OrokinTabs.)_(0.25g/1정)",1,정,865,한국유나이티드제약(주),134901ATB,clarithromycin   0.25g,내복,619
 8806443041424,644304140,클락신정500밀리그램(클래리트로마이신)_(0.5g/1정),1,정,1290,한국유나이티드제약(주),134904ATB,clarithromycin   0.5g,내복,619
 8806443041523,644304150,클란자에스연질캡슐(아세클로페낙)(수출명:SpeenacSoftCaps.)_(0.1g/1캡슐),1,캡슐,188,한국유나이티드제약(주),100901ACS,aceclofenac   0.1g,내복,114
 8806443041721,644304160,클란자정(아세클로페낙)(수출명:SpeenacTabs.)_(0.1g/1정),1,정,188,한국유나이티드제약(주),100901ATB,aceclofenac   0.1g,내복,114
@@ -5961,9 +5954,9 @@
 8806449119813,644911981,"후리아민10%주(수출명:AMINOGOLD10%Inj.,AMIGOLD10%Inj.)_(250mL/백)",250,mL/백,5659,제이더블유중외제약(주),107159BIJ,amino acids(10%)   25g(0.1g/mL),주사,325
 8806449121021,644912101,펜토탈소디움주사0.25그램(치오펜탈나트륨)_(0.265g/1병),1,병,1496,제이더블유중외제약(주),482201BIJ,thiopental sodium   0.265g,주사,111
 8806449121236,644912121,펜토탈소디움0.5그램주(치오펜탈나트륨)_(0.53g/1병),1,병,1532,제이더블유중외제약(주),482202BIJ,thiopental sodium   0.53g,주사,111
-8806449122332,644912233,엔커버액_(200mL)(커피맛),200,mL/백,2050,제이더블유중외제약(주),529300ALQ,"biotin   7.72μg(0.0386μg/mL), calcium chloride   0.2352g(1.176mg/mL), calcium citrate   79.06mg(0.3953mg/mL), calcium pantothenate   2.082mg(10.41μg/mL), casein   6.800g(34mg/mL), cholecalciferol   0.68μg(0.0034μg/mL), copper sulfate   0.7862mg(3.931μg/mL), cyanocobalamin   0.64μg(0.0032μg/mL), ferrous gluconate   6.576mg(32.88μg/mL), folic acid   75μg(0.375μg/mL), isolated soybean protein   3.332g(16.66mg/mL), magnesium chloride   0.311g(1.555mg/mL), maltodextrine   29.716g(0.14858g/mL), manganese sulfate   0.9842mg(4.921μg/mL), nicotinamide   5mg(25μg/mL), palm oil   0.668g(3.34mg/mL), perilla oil   0.36g(1.8mg/mL), phytonadione   0.125mg(0.625μg/mL), potassium carbonate   395.4mg(1.977mg/mL), potassium chloride   12.06mg(0.0603mg/mL), potassium citrate   0.10254g(0.5127mg/mL), potassium dihydrogen phosphate   19.288mg(0.09644mg/mL), purified sucrose   2.6g(13mg/mL), pyridoxine hydrochloride   0.9118mg(4.559μg/mL), riboflavin sodium phosphate   0.6228mg(3.114μg/mL), sodium ascorbate   63.2mg(0.316mg/mL), sodium citrate   0.414g(2.07mg/mL), soybean oil   1.398g(6.99mg/mL), thiamine hydrochloride   0.966mg(4.83μg/mL), tocopherol acetate   1.3mg(6.5μg/mL), tricaprilin   1.5g(7.5mg/mL), vitamine A oil   2.070mg(10.35μg/mL), zinc sulfate   3.868mg(19.34μg/mL)",내복,325
-8806449122349,644912234,엔커버액_(400mL),400,mL/백,4107,제이더블유중외제약(주),529400ALQ,"biotin   15.44μg(0.0386μg/mL), calcium chloride   0.4704g(1.176mg/mL), calcium citrate   0.15812g(0.3953mg/mL), calcium pantothenate   4.164mg(10.41μg/mL), casein   13.6g(34mg/mL), cholecalciferol   1.36μg(0.0034μg/mL), copper sulfate   1.5724mg(3.931μg/mL), cyanocobalamin   1.28μg(0.0032μg/mL), ferrous gluconate   13.152mg(32.88μg/mL), folic acid   0.15mg(0.375μg/mL), isolated soybean protein   6.664g(16.66mg/mL), magnesium chloride   0.622g(1.555mg/mL), maltodextrine   59.432g(0.14858g/mL), manganese sulfate   1.9684mg(4.921μg/mL), nicotinamide   10mg(25μg/mL), palm oil   1.336g(3.34mg/mL), perilla oil   0.72g(1.8mg/mL), phytonadione   0.25mg(0.625μg/mL), potassium carbonate   0.7908g(1.977mg/mL), potassium chloride   24.12mg(0.0603mg/mL), potassium citrate   0.20508g(0.5127mg/mL), potassium dihydrogen phosphate   38.576mg(0.09644mg/mL), purified sucrose   5.2g(13mg/mL), pyridoxine hydrochloride   1.8236mg(4.559μg/mL), riboflavin sodium phosphate   1.2456mg(3.114μg/mL), sodium ascorbate   0.1264g(0.316mg/mL), sodium citrate   0.828g(2.07mg/mL), soybean oil   2.796g(6.99mg/mL), thiamine hydrochloride   1.932mg(4.83μg/mL), tocopherol acetate   2.6mg(6.5μg/mL), tricaprilin   3g(7.5mg/mL), vitamine A oil   4.14mg(10.35μg/mL), zinc sulfate   7.736mg(19.34μg/mL)",내복,325
-8806449122356,644912235,엔커버액_(200mL)(옥수수맛),200,mL/백,2050,제이더블유중외제약(주),529300ALQ,"biotin   7.72μg(0.0386μg/mL), calcium chloride   0.2352g(1.176mg/mL), calcium citrate   79.06mg(0.3953mg/mL), calcium pantothenate   2.082mg(10.41μg/mL), casein   6.800g(34mg/mL), cholecalciferol   0.68μg(0.0034μg/mL), copper sulfate   0.7862mg(3.931μg/mL), cyanocobalamin   0.64μg(0.0032μg/mL), ferrous gluconate   6.576mg(32.88μg/mL), folic acid   75μg(0.375μg/mL), isolated soybean protein   3.332g(16.66mg/mL), magnesium chloride   0.311g(1.555mg/mL), maltodextrine   29.716g(0.14858g/mL), manganese sulfate   0.9842mg(4.921μg/mL), nicotinamide   5mg(25μg/mL), palm oil   0.668g(3.34mg/mL), perilla oil   0.36g(1.8mg/mL), phytonadione   0.125mg(0.625μg/mL), potassium carbonate   395.4mg(1.977mg/mL), potassium chloride   12.06mg(0.0603mg/mL), potassium citrate   0.10254g(0.5127mg/mL), potassium dihydrogen phosphate   19.288mg(0.09644mg/mL), purified sucrose   2.6g(13mg/mL), pyridoxine hydrochloride   0.9118mg(4.559μg/mL), riboflavin sodium phosphate   0.6228mg(3.114μg/mL), sodium ascorbate   63.2mg(0.316mg/mL), sodium citrate   0.414g(2.07mg/mL), soybean oil   1.398g(6.99mg/mL), thiamine hydrochloride   0.966mg(4.83μg/mL), tocopherol acetate   1.3mg(6.5μg/mL), tricaprilin   1.5g(7.5mg/mL), vitamine A oil   2.070mg(10.35μg/mL), zinc sulfate   3.868mg(19.34μg/mL)",내복,325
+8806449122332,644912233,엔커버액_(200mL)(커피맛),200,mL/백,2300,제이더블유중외제약(주),529300ALQ,"biotin   7.72μg(0.0386μg/mL), calcium chloride   0.2352g(1.176mg/mL), calcium citrate   79.06mg(0.3953mg/mL), calcium pantothenate   2.082mg(10.41μg/mL), casein   6.800g(34mg/mL), cholecalciferol   0.68μg(0.0034μg/mL), copper sulfate   0.7862mg(3.931μg/mL), cyanocobalamin   0.64μg(0.0032μg/mL), ferrous gluconate   6.576mg(32.88μg/mL), folic acid   75μg(0.375μg/mL), isolated soybean protein   3.332g(16.66mg/mL), magnesium chloride   0.311g(1.555mg/mL), maltodextrine   29.716g(0.14858g/mL), manganese sulfate   0.9842mg(4.921μg/mL), nicotinamide   5mg(25μg/mL), palm oil   0.668g(3.34mg/mL), perilla oil   0.36g(1.8mg/mL), phytonadione   0.125mg(0.625μg/mL), potassium carbonate   395.4mg(1.977mg/mL), potassium chloride   12.06mg(0.0603mg/mL), potassium citrate   0.10254g(0.5127mg/mL), potassium dihydrogen phosphate   19.288mg(0.09644mg/mL), purified sucrose   2.6g(13mg/mL), pyridoxine hydrochloride   0.9118mg(4.559μg/mL), riboflavin sodium phosphate   0.6228mg(3.114μg/mL), sodium ascorbate   63.2mg(0.316mg/mL), sodium citrate   0.414g(2.07mg/mL), soybean oil   1.398g(6.99mg/mL), thiamine hydrochloride   0.966mg(4.83μg/mL), tocopherol acetate   1.3mg(6.5μg/mL), tricaprilin   1.5g(7.5mg/mL), vitamine A oil   2.070mg(10.35μg/mL), zinc sulfate   3.868mg(19.34μg/mL)",내복,325
+8806449122349,644912234,엔커버액_(400mL),400,mL/백,4600,제이더블유중외제약(주),529400ALQ,"biotin   15.44μg(0.0386μg/mL), calcium chloride   0.4704g(1.176mg/mL), calcium citrate   0.15812g(0.3953mg/mL), calcium pantothenate   4.164mg(10.41μg/mL), casein   13.6g(34mg/mL), cholecalciferol   1.36μg(0.0034μg/mL), copper sulfate   1.5724mg(3.931μg/mL), cyanocobalamin   1.28μg(0.0032μg/mL), ferrous gluconate   13.152mg(32.88μg/mL), folic acid   0.15mg(0.375μg/mL), isolated soybean protein   6.664g(16.66mg/mL), magnesium chloride   0.622g(1.555mg/mL), maltodextrine   59.432g(0.14858g/mL), manganese sulfate   1.9684mg(4.921μg/mL), nicotinamide   10mg(25μg/mL), palm oil   1.336g(3.34mg/mL), perilla oil   0.72g(1.8mg/mL), phytonadione   0.25mg(0.625μg/mL), potassium carbonate   0.7908g(1.977mg/mL), potassium chloride   24.12mg(0.0603mg/mL), potassium citrate   0.20508g(0.5127mg/mL), potassium dihydrogen phosphate   38.576mg(0.09644mg/mL), purified sucrose   5.2g(13mg/mL), pyridoxine hydrochloride   1.8236mg(4.559μg/mL), riboflavin sodium phosphate   1.2456mg(3.114μg/mL), sodium ascorbate   0.1264g(0.316mg/mL), sodium citrate   0.828g(2.07mg/mL), soybean oil   2.796g(6.99mg/mL), thiamine hydrochloride   1.932mg(4.83μg/mL), tocopherol acetate   2.6mg(6.5μg/mL), tricaprilin   3g(7.5mg/mL), vitamine A oil   4.14mg(10.35μg/mL), zinc sulfate   7.736mg(19.34μg/mL)",내복,325
+8806449122356,644912235,엔커버액_(200mL)(옥수수맛),200,mL/백,2300,제이더블유중외제약(주),529300ALQ,"biotin   7.72μg(0.0386μg/mL), calcium chloride   0.2352g(1.176mg/mL), calcium citrate   79.06mg(0.3953mg/mL), calcium pantothenate   2.082mg(10.41μg/mL), casein   6.800g(34mg/mL), cholecalciferol   0.68μg(0.0034μg/mL), copper sulfate   0.7862mg(3.931μg/mL), cyanocobalamin   0.64μg(0.0032μg/mL), ferrous gluconate   6.576mg(32.88μg/mL), folic acid   75μg(0.375μg/mL), isolated soybean protein   3.332g(16.66mg/mL), magnesium chloride   0.311g(1.555mg/mL), maltodextrine   29.716g(0.14858g/mL), manganese sulfate   0.9842mg(4.921μg/mL), nicotinamide   5mg(25μg/mL), palm oil   0.668g(3.34mg/mL), perilla oil   0.36g(1.8mg/mL), phytonadione   0.125mg(0.625μg/mL), potassium carbonate   395.4mg(1.977mg/mL), potassium chloride   12.06mg(0.0603mg/mL), potassium citrate   0.10254g(0.5127mg/mL), potassium dihydrogen phosphate   19.288mg(0.09644mg/mL), purified sucrose   2.6g(13mg/mL), pyridoxine hydrochloride   0.9118mg(4.559μg/mL), riboflavin sodium phosphate   0.6228mg(3.114μg/mL), sodium ascorbate   63.2mg(0.316mg/mL), sodium citrate   0.414g(2.07mg/mL), soybean oil   1.398g(6.99mg/mL), thiamine hydrochloride   0.966mg(4.83μg/mL), tocopherol acetate   1.3mg(6.5μg/mL), tricaprilin   1.5g(7.5mg/mL), vitamine A oil   2.070mg(10.35μg/mL), zinc sulfate   3.868mg(19.34μg/mL)",내복,325
 8806449123520,644912351,포스페넴주0.5그램(메로페넴삼수화물)_(0.5g/1병),1,병,9583,제이더블유중외제약(주),190702BIJ,meropenem   0.5g,주사,618
 8806449123827,644912380,발사렉트정80밀리그램(발사르탄)_(80mg/1정),1,정,451,제이더블유중외제약(주),247101ATB,valsartan   80mg,내복,214
 8806449123926,644912390,코발사렉트정80/12.5mg_(1정),1,정,462,제이더블유중외제약(주),356400ATB,"hydrochlorothiazide   12.5mg, valsartan   80mg",내복,214
@@ -6053,7 +6046,6 @@
 8806449149629,644914960,리바로젯정2/10밀리그램_(1정),1,정,1307,제이더블유중외제약(주),699400ATB,"ezetimibe   10mg, pitavastatin calcium   2mg",내복,218
 8806449149728,644914970,리바로젯정4/10밀리그램_(1정),1,정,1587,제이더블유중외제약(주),699500ATB,"ezetimibe   10mg, pitavastatin calcium   4mg",내복,218
 8806449149919,644914991,중외50%포도당주사액_(25g/50mL),50,mL/병,1326,제이더블유중외제약(주),142734BIJ,dextrose(50%)   25g(0.5g/mL),주사,323
-8806449150014,644915000,라베그론서방정50밀리그램(미라베그론)_(50mg/1정),1,정,324,제이더블유중외제약(주),625701ATR,mirabegron   50mg,내복,259
 8806449150335,644915030,자디하트정25밀리그램(엠파글리플로진)_(25mg/1정),1,정,347,제이더블유중외제약(주),628202ATB,empagliflozin   25mg,내복,396
 8806449150434,644915040,자디하트정10밀리그램(엠파글리플로진)_(10mg/1정),1,정,265,제이더블유중외제약(주),628201ATB,empagliflozin   10mg,내복,396
 8806449150540,644915050,"자디메트정5/850밀리그램(엠파글리플로진, 메트포르민염산염)_(1정)",1,정,236,제이더블유중외제약(주),649500ATB,"empagliflozin   5mg, metformin hydrochloride   0.85g",내복,396
@@ -7770,9 +7762,9 @@
 8806469023824,646902380,토파맥스정25밀리그램(토피라메이트)_(25mg/1정),1,정,381,(주)한국얀센,241803ATB,topiramate   25mg,내복,113
 8806469023923,646902390,토파맥스정100밀리그램(토피라메이트)_(0.1g/1정),1,정,855,(주)한국얀센,241801ATB,topiramate   0.1g,내복,113
 8806469024012,646902400,옵서미트정10밀리그램(마시텐탄)_(10mg/1정),1,정,33937,(주)한국얀센,632201ATB,micronized macitentan   10mg,내복,214
-8806469024111,646902410,업트라비정200마이크로그램(셀렉시팍)_(0.2mg/1정),1,정,12150,(주)한국얀센,652301ATB,selexipag   0.2mg,내복,214
-8806469024210,646902420,업트라비정800마이크로그램(셀렉시팍)_(0.8mg/1정),1,정,27337,(주)한국얀센,652302ATB,selexipag   0.8mg,내복,214
-8806469024319,646902430,업트라비정400마이크로그램(셀렉시팍)_(0.4mg/1정),1,정,18225,(주)한국얀센,652303ATB,selexipag   0.4mg,내복,214
+8806469024111,646902410,업트라비정200마이크로그램(셀렉시팍)_(0.2mg/1정),1,정,12000,(주)한국얀센,652301ATB,selexipag   0.2mg,내복,214
+8806469024210,646902420,업트라비정800마이크로그램(셀렉시팍)_(0.8mg/1정),1,정,27000,(주)한국얀센,652302ATB,selexipag   0.8mg,내복,214
+8806469024319,646902430,업트라비정400마이크로그램(셀렉시팍)_(0.4mg/1정),1,정,18000,(주)한국얀센,652303ATB,selexipag   0.4mg,내복,214
 8806469024418,646902440,자베스카캡슐100밀리그램(미글루스타트)_(0.1g/1캡슐),1,캡슐,98766,(주)한국얀센,505901ACH,miglustat   0.1g,내복,399
 8806469024517,646902450,트라클리어정62.5밀리그램(보센탄수화물)_(64.541mg/1정),1,정,11420,(주)한국얀센,485201ATB,bosentan hydrate (as bosentan   62.5mg),내복,214
 8806469024616,646902460,리스페달정3밀리그램(리스페리돈)_(3mg/1정),1,정,665,(주)한국얀센,224203ATB,risperidone   3mg,내복,117
@@ -7788,7 +7780,7 @@
 8806469026627,646902660,울트라셋이알세미서방정_(1정),1,정,262,(주)한국얀센,513000ATR,"acetaminophen   0.325g, tramadol hydrochloride   37.5mg",내복,114
 8806469026719,646902671,인베가하피에라주사(팔리페리돈팔미테이트)_(1.092g/3.5mL),3.5,mL/관,1439215,(주)한국얀센,586439BIJ,paliperidone palmitate (as paliperidone   0.7g(0.2g/mL)),주사,117
 8806469026818,646902681,인베가하피에라주사(팔리페리돈팔미테이트)_(1.56g/5mL),5,mL/관,1764504,(주)한국얀센,586440BIJ,paliperidone palmitate (as paliperidone   1g(0.2g/mL)),주사,117
-8806469027716,646902770,업트라비정600마이크로그램(셀렉시팍)_(0.6mg/1정),1,정,22781,(주)한국얀센,652304ATB,selexipag   0.6mg,내복,214
+8806469027716,646902770,업트라비정600마이크로그램(셀렉시팍)_(0.6mg/1정),1,정,22325,(주)한국얀센,652304ATB,selexipag   0.6mg,내복,214
 8806469028027,646902801,레캄비스주사(릴피비린)_(0.9g/3mL),1,병,434550,(주)한국얀센,740201BIJ,rilpivirine micronized   0.9g(0.3g/mL),주사,629
 8806472002335,647200233,무조나크림(테르비나핀염산염)_(0.15g/15g),15,g/개,3585,한국코러스(주),235731CCM,terbinafine hydrochloride   0.15g(10mg/g),외용,265
 8806472002342,647200234,무조나크림(테르비나핀염산염)_(0.2g/20g),20,g/개,4780,한국코러스(주),235733CCM,terbinafine hydrochloride   0.2g(10mg/g),외용,265
@@ -7863,7 +7855,6 @@
 8806472048623,647204860,에스람정10밀리그램(에스시탈로프람옥살산염)_(12.77mg/1정),1,정,530,한국코러스(주),474802ATB,escitalopram oxalate (as escitalopram   10mg),내복,117
 8806472048722,647204870,에스람정5밀리그램(에스시탈로프람옥살산염)_(6.39mg/1정),1,정,354,한국코러스(주),474801ATB,escitalopram oxalate (as escitalopram   5mg),내복,117
 8806472048821,647204880,알티온정(아젤라스틴염산염)_(1mg/1정),1,정,150,한국코러스(주),112501ATB,azelastine hydrochloride   1mg,내복,149
-8806472048920,647204890,펠리시움정(펠라고니움시도이데스11%에탄올추출물(1→8~10)_(1.53846g/1정),1,정,214,한국코러스(주),490303ATB,pelargonium sidoides 11% ethanol ext.(1→8~10) (as dried pelargonium sidoides ethanol ext.   16~20mg),내복,229
 8806472049026,647204900,실로엔정(실로스타졸)_(50mg/1정),1,정,212,한국코러스(주),133202ATB,cilostazol   50mg,내복,339
 8806472049323,647204930,다이릴엠정_(1정),1,정,167,한국코러스(주),474300ATB,"glimepiride   2mg, metformin hydrochloride   0.5g",내복,396
 8806472049422,647204940,프로메틴정(메만틴염산염)_(10mg/1정),1,정,715,한국코러스(주),190001ATB,memantine hydrochloride (as memantine   8.31mg),내복,119
@@ -8613,7 +8604,6 @@
 8806485005019,648500501,로시덴겔(피록시캄)_(0.15g/30g),30,g/개,1110,신풍제약(주),214033CCM,piroxicam   0.15g(5mg/g),외용,264
 8806485005026,648500502,로시덴겔(피록시캄)_(0.25g/50g),50,g/개,1850,신풍제약(주),214035CCM,piroxicam   0.25g(5mg/g),외용,264
 8806485005033,648500503,로시덴겔(피록시캄)_(0.5g/100g),100,g/개,3700,신풍제약(주),214037CCM,piroxicam   0.5g(5mg/g),외용,264
-8806485005330,648500531,로시덴주(피록시캄)_(20mg/1mL),1,mL/앰플,700,신풍제약(주),214031BIJ,piroxicam   20mg(20mg/mL),주사,114
 8806485005736,648500570,로이솔정(암브록솔염산염)_(30mg/1정),1,정,44,신풍제약(주),106301ATB,ambroxol hydrochloride   30mg,내복,222
 8806485005828,648500581,로이솔주사액(암브록솔염산염)_(15mg/2mL),2,mL/앰플,300,신풍제약(주),106330BIJ,ambroxol hydrochloride   15mg(7.5mg/mL),주사,222
 8806485005965,648500590,로이칼연질캅셀(칼시트리올)_(0.25㎍/1캡슐),1,캡슐,245,신풍제약(주),121601ACS,calcitriol   0.25㎍,내복,311
@@ -9487,18 +9477,13 @@
 8806491053721,649105370,엑스크레스바정5/80/10밀리그램_(1정),1,정,1260,한국휴텍스제약(주),679500ATB,"amlodipine besylate (as amlodipine   5mg), rosuvastatin calcium (as rosuvastatin   10mg), valsartan   80mg",내복,219
 8806491053820,649105380,엑스크레스바정5/160/5밀리그램_(1정),1,정,1149,한국휴텍스제약(주),679700ATB,"amlodipine besylate (as amlodipine   5mg), rosuvastatin calcium (as rosuvastatin   5mg), valsartan   0.16g",내복,219
 8806491053929,649105390,엑스크레스바정5/160/10밀리그램_(1정),1,정,1415,한국휴텍스제약(주),679600ATB,"amlodipine besylate (as amlodipine   5mg), rosuvastatin calcium (as rosuvastatin   10mg), valsartan   0.16g",내복,219
-8806491054216,649105420,다야브스정50밀리그램(빌다글립틴)_(50mg/1정),1,정,204,한국휴텍스제약(주),500801ATB,vildagliptin   50mg,내복,396
 8806491054339,649105430,베타미라서방정50밀리그램(미라베그론)_(50mg/1정),1,정,324,한국휴텍스제약(주),625701ATR,mirabegron   50mg,내복,259
 8806491054421,649105440,아젤디핀정8밀리그램(아젤니디핀)_(8mg/1정),1,정,210,한국휴텍스제약(주),701401ATB,azelnidipine   8mg,내복,214
 8806491054513,649105450,다낼리아엠서방정20/1000밀리그램_(1정),1,정,665,한국휴텍스제약(주),708200ATR,"metformin hydrochloride   1g, teneligliptin hydrochloride hydrate (as teneligliptin   20mg)",내복,396
 8806491054612,649105460,다낼리아엠서방정10/750밀리그램_(1정),1,정,334,한국휴텍스제약(주),708300ATR,"metformin hydrochloride   0.75g, teneligliptin hydrochloride hydrate (as teneligliptin   10mg)",내복,396
 8806491054711,649105470,다낼리아엠서방정10/500밀리그램_(1정),1,정,334,한국휴텍스제약(주),708400ATR,"metformin hydrochloride   0.5g, teneligliptin hydrochloride hydrate (as teneligliptin   10mg)",내복,396
 8806491055121,649105510,로바로우정4밀리그램(피타바스타틴칼슘)_(4mg/1정),1,정,517,한국휴텍스제약(주),470903ATB,pitavastatin calcium   4mg,내복,218
-8806491055237,649105520,나누메트엑스알서방정50/500밀리그램_(1정),1,정,381,한국휴텍스제약(주),709300ATR,"metformin hydrochloride   0.5g, sitagliptin hydrochloride hydrate (as sitagliptin   50mg)",내복,396
-8806491055336,649105530,나누메트엑스알서방정50/1000밀리그램_(1정),1,정,420,한국휴텍스제약(주),709400ATR,"metformin hydrochloride   1g, sitagliptin hydrochloride hydrate (as sitagliptin   50mg)",내복,396
-8806491055435,649105540,나누메트엑스알서방정100/1000밀리그램_(1정),1,정,572,한국휴텍스제약(주),709500ATR,"metformin hydrochloride   1g, sitagliptin hydrochloride hydrate (as sitagliptin   0.1g)",내복,396
 8806491055527,649105550,로바로우정1밀리그램(피타바스타틴칼슘)_(1mg/1정),1,정,295,한국휴텍스제약(주),470902ATB,pitavastatin calcium   1mg,내복,218
-8806491055626,649105560,폴렉스캡슐2밀리그램(폴마콕시브)_(2mg/1캡슐),1,캡슐,470,한국휴텍스제약(주),636401ACH,polmacoxib   2mg,내복,114
 8806491055725,649105570,아젤디핀정16밀리그램(아젤니디핀)_(16mg/1정),1,정,364,한국휴텍스제약(주),701402ATB,azelnidipine   16mg,내복,214
 8806491055831,649105580,"에제슈프라정(에제티미브, 페노피브레이트)_(1정)",1,정,1057,한국휴텍스제약(주),702800ATB,"ezetimibe   10mg, fenofibrate   0.16g",내복,218
 8806491055930,649105590,아토코마연질캡슐5/1000밀리그램_(1캡슐),1,캡슐,739,한국휴텍스제약(주),711200ACS,"atorvastatin calcium (as atorvastatin   5mg), omega-3-acid ethyl esters90   1g (as EPA ethylester   0.46g, DHA ethylester   0.38g)",내복,218
@@ -9683,7 +9668,7 @@
 8806495025144,649502510,유니심바정20밀리그램(심바스타틴)(수출명:조쿠나정)_(20mg/1정),1,정,669,유니메드제약(주),227801ATB,simvastatin   20mg,내복,218
 8806495026110,649502611,유니알점안액(히알루론산나트륨)_(5mg/5mL),5,mL/병,2220,유니메드제약(주),530020COS,sodium hyaluronate   5mg(1mg/mL),외용,131
 8806495026127,649502612,유니알점안액(히알루론산나트륨)_(10mg/10mL),10,mL/병,4440,유니메드제약(주),530029COS,sodium hyaluronate   10mg(1mg/mL),외용,131
-8806495027032,649502700,유니작정(염산플루옥세틴)_(22.4mg/1정),1,정,281,유니메드제약(주),161502ATB,fluoxetine hydrochloride (as fluoxetine   20mg),내복,117
+8806495027032,649502700,유니작정20밀리그램(플루옥세틴염산염)_(22.4mg/1정),1,정,281,유니메드제약(주),161502ATB,fluoxetine hydrochloride (as fluoxetine   20mg),내복,117
 8806495027148,649502710,유니작정10밀리그람(염산플루옥세틴)_(11.2mg/1정),1,정,193,유니메드제약(주),161501ATB,fluoxetine hydrochloride (as fluoxetine   10mg),내복,117
 8806495027421,649502741,유니제돈주(세파제돈나트륨)(수출명: 유-제돈주)_(1g/1병),1,병,6002,유니메드제약(주),130001BIJ,cephazedone sodium   1g,주사,618
 8806495028220,649502820,유니코나졸캅셀(플루코나졸)_(50mg/1캡슐),1,캡슐,1294,유니메드제약(주),159903ACH,fluconazole   50mg,내복,629
@@ -12568,7 +12553,6 @@
 8806534044624,653404460,에페날서방정(에페리손염산염)_(75mg/1정),1,정,162,동국제약(주),152302ATR,eperisone hydrochloride   75mg,내복,122
 8806534044839,653404481,패티오돌주사(아이오다이즈드오일)_(12.8g/10mL),10,mL/앰플,101745,동국제약(주),156030BIJ,ethyl esters of the iodised fatty acids of poppyseed oil   12.8g(1.28g/mL),주사,721
 8806534044938,653404491,패티오돌주사(아이오다이즈드오일)_(6.4g/5mL),5,mL/앰플,65503,동국제약(주),156031BIJ,ethyl esters of the iodised fatty acids of poppyseed oil   6.4g(1.28g/mL),주사,721
-8806534045010,653404500,로라엔정(디에노게스트(미분화))_(56mg/28정),28,정/팩,28800,동국제약(주),615701ATB,dienogest   2mg/정,내복,247
 8806534045126,653404511,마시본에스액(알렌드론산나트륨수화물)_(91.4mg/20mL),20,mL/병,5320,동국제약(주),228307ALQ,sodium alendronate (as alendronic acid   70mg(3.5mg/mL)),내복,399
 8806534045225,653404520,파모릴정20밀리그램(파모티딘)_(20mg/1정),1,정,161,동국제약(주),157302ATB,famotidine   20mg,내복,232
 8806534045324,653404530,타루날서방캡슐0.4밀리그램(탐스로신염산염)_(0.4mg/1캡슐),1,캡슐,675,동국제약(주),234603ACR,tamsulosin hydrochloride   0.4mg,내복,259
@@ -12644,7 +12628,7 @@
 8806534058713,653405870,디라엔정(디에노게스트)_(56mg/28정),28,정/팩,24569,동국제약(주),615701ATB,dienogest   2mg/정,내복,247
 8806534059123,653405910,엘프로진정(레보드로프로피진)_(60mg/1정),1,정,114,동국제약(주),183102ATB,levodropropizine   60mg,내복,222
 8806534059420,653405940,"엑소락센정500/20밀리그램(나프록센, 에스오메프라졸마그네슘삼수화물)_(1정)",1,정,608,동국제약(주),518000ATB,"esomeprazole magnesium (as esomeprazole   20mg), naproxen   0.5g",내복,114
-8806534059628,653405961,암포좀주사(주사용리포좀화한암포테리신B)_(50mg/1병),1,병,109983,동국제약(주),108501BIJ,amphotericin B(liposomal)   50mg,주사,616
+8806534059628,653405961,암포좀주사(주사용리포좀화한암포테리신B)_(50mg/1병),1,병,89400,동국제약(주),108501BIJ,amphotericin B(liposomal)   50mg,주사,616
 8806534059710,653405970,엠플진정10밀리그램(엠파글리플로진)_(10mg/1정),1,정,265,동국제약(주),628201ATB,empagliflozin   10mg,내복,396
 8806534059819,653405980,엠플진정25밀리그램(엠파글리플로진)_(25mg/1정),1,정,347,동국제약(주),628202ATB,empagliflozin   25mg,내복,396
 8806534060419,653406040,"엠플진메트서방정25/1000밀리그램(엠파글리플로진, 메트포르민염산염)_(1정)",1,정,527,동국제약(주),744100ATR,"empagliflozin   25mg, metformin hydrochloride   1g",내복,396
@@ -14297,7 +14281,7 @@
 8806573041837,657304180,동구레보플록사신수화물정500mg_(0.5123g/1정),1,정,1606,(주)동구바이오제약,183203ATB,levofloxacin hydrate   0.5g,내복,629
 8806573044739,657304470,로스바탄정10mg(로수바스타틴칼슘)_(10.4mg/1정),1,정,612,(주)동구바이오제약,454001ATB,rosuvastatin calcium (as rosuvastatin   10mg),내복,218
 8806573046023,657304600,위스틸렌정(애엽95%에탄올연조엑스(20->1))_(60mg/1정),1,정,90,(주)동구바이오제약,430101ATB,artemisiae argyi folium 95% ethanol ext.(20→1)   60mg,내복,232
-8806573046313,657304630,비오펜연질캡슐(덱시부프로펜)_(0.3g/1캡슐),1,캡슐,115,(주)동구바이오제약,142301ACS,dexibuprofen   0.3g,내복,114
+8806573046313,657304630,릴리펜덱시연질캡슐(덱시부프로펜)_(0.3g/1캡슐),1,캡슐,115,(주)동구바이오제약,142301ACS,dexibuprofen   0.3g,내복,114
 8806573046412,657304640,글리포스연질캡슐(콜린알포세레이트)_(0.4g/1캡슐),1,캡슐,445,(주)동구바이오제약,138101ACS,choline alfoscerate   0.4g,내복,119
 8806573053021,657305300,아토스탄정10mg(아토르바스타틴칼슘수화물)_(10.85mg/1정),1,정,612,(주)동구바이오제약,111501ATB,atorvastatin calcium (as atorvastatin   10mg),내복,218
 8806573057340,657305730,글리파엠정2/500밀리그램_(1정),1,정,197,(주)동구바이오제약,474300ATB,"glimepiride   2mg, metformin hydrochloride   0.5g",내복,396
@@ -14691,7 +14675,7 @@
 8806578057819,657805780,로스토린정10/20밀리그램_(1정),1,정,1263,하나제약(주),640900ATB,"ezetimibe   10mg, rosuvastatin calcium (as rosuvastatin   20mg)",내복,218
 8806578057918,657805790,로스토린정10/10밀리그램_(1정),1,정,1251,하나제약(주),640800ATB,"ezetimibe   10mg, rosuvastatin calcium (as rosuvastatin   10mg)",내복,218
 8806578058014,657805800,로스토린정10/5밀리그램_(1정),1,정,895,하나제약(주),640700ATB,"ezetimibe   10mg, rosuvastatin calcium (as rosuvastatin   5mg)",내복,218
-8806578058113,657805810,바이스틴정 10/10밀리그램_(1정),1,정,666,하나제약(주),471000ATB,"ezetimibe   10mg, simvastatin   10mg",내복,218
+8806578058113,657805810,바이스틴정10/10밀리그램_(1정),1,정,666,하나제약(주),471000ATB,"ezetimibe   10mg, simvastatin   10mg",내복,218
 8806578058243,657805820,칼리딘정(칼리디노게나제)_(50I.U/1정),1,정,209,하나제약(주),179303ATE,kallidinogenase   50I.U,내복,219
 8806578058311,657805830,리마론정(리마프로스트알파덱스)_(0.16667mg/1정),1,정,274,하나제약(주),184101ATB,limaprost α-cyclodextrin (as limaprost   5μg),내복,219
 8806578058427,657805840,알푸론정(아플로쿠알론)_(20mg/1정),1,정,130,하나제약(주),104101ATB,afloqualone   20mg,내복,119
@@ -15994,7 +15978,7 @@
 8806626008718,662600870,로바원정5밀리그램(로수바스타틴칼슘)_(5.2mg/1정),1,정,294,원광제약(주),454003ATB,rosuvastatin calcium (as rosuvastatin   5mg),내복,218
 8806626009630,662600960,로바원정20밀리그램(로수바스타틴칼슘)_(20.8mg/1정),1,정,581,원광제약(주),454002ATB,rosuvastatin calcium (as rosuvastatin   20mg),내복,218
 8806626010438,662601040,파모티원정(파모티딘)_(20mg/1정),1,정,161,원광제약(주),157302ATB,famotidine   20mg,내복,232
-8806629000139,662900010,뉴롤라이트_(1병),1,병,264000,(주)부경에스엠,369000BIJ,"bicisate 2hydrochloride   0.9mg, sodium edetate   0.36mg",주사,431
+8806629000139,662900010,뉴롤라이트_(1병),1,병,302000,(주)부경에스엠,369000BIJ,"bicisate 2hydrochloride   0.9mg, sodium edetate   0.36mg",주사,431
 8806629000740,662900074,카디올라이트(테트라키스(2-메톡시이소부틸이소니트릴)구리(Ⅰ)테트라플루오로보레이트)_(1mg/1병),1,병,274840,(주)부경에스엠,369101BIJ,tetrakis copper(I)tetrafluoroborate   1mg,주사,431
 8806629001013,662900080,테크네라이트제너레이터(과테크네튬산나트륨(99mcTc)주사액제너레이터),1,mCi,2700,(주)부경에스엠,368401BIJ,sodium pertechnetate(Tc-99m)   0.037GBq(1mCi),주사,431
 8806633007827,663300780,디나칸캡슐(플루코나졸)_(50mg/1캡슐),1,캡슐,1516,에스에스팜(주),159903ACH,fluconazole   50mg,내복,629
@@ -16006,7 +15990,6 @@
 8806633009029,663300900,모사에이블정5밀리그램(모사프리드시트르산염수화물)_(5.29mg/1정),1,정,88,에스에스팜(주),421001ATB,mosapride citrate hydrate (as mosapride   5mg),내복,239
 8806633009128,663300910,도네쿨정10밀리그램(도네페질염산염수화물)_(10.43mg/1정),1,정,959,에스에스팜(주),148601ATB,donepezil hydrochloride   10mg,내복,119
 8806633009227,663300920,도네쿨정5밀리그램(도네페질염산염수화물)_(5.215mg/1정),1,정,650,에스에스팜(주),148602ATB,donepezil hydrochloride   5mg,내복,119
-8806633009418,663300940,에바스젯정10/10밀리그램_(1정),1,정,637,에스에스팜(주),633800ATB,"atorvastatin calcium (as atorvastatin   10mg), ezetimibe   10mg",내복,218
 8806633009814,663300980,도네쿨정23밀리그램(도네페질염산염수화물)_(24mg/1정),1,정,3420,에스에스팜(주),148603ATB,donepezil hydrochloride   23mg,내복,119
 8806636000443,663600040,구멘틴375밀리그람정_(1정),1,정,300,한국프라임제약(주),310600ATB,"amoxicillin   0.25g, clavulanate potassium   0.125g",내복,618
 8806636000719,663600071,구멘틴시럽(7:1)[아목시실린.클라불란산칼륨(7:1)]_(50mL),50(1),mL/병,69,한국프라임제약(주),535000ASY,"amoxicillin   2g(40mg/mL), clavulanate potassium   0.285g(5.7mg/mL)",내복,618
@@ -16976,7 +16959,6 @@
 8806698031225,669803121,피페락탐주(피페라실린나트륨·타조박탐나트륨)_(1병),1,병,5863,구주제약(주),329600BIJ,"piperacillin sodium   4g, tazobactam   0.5g",주사,618
 8806698032628,669803260,안블록정100밀리그램(사포그릴레이트염산염)_(0.1g/1정),1,정,437,구주제약(주),226101ATB,sarpogrelate hydrochloride   0.1g,내복,339
 8806698032932,669803290,트라마펜정_(1정),1,정,190,구주제약(주),513000ATB,"acetaminophen   0.325g, tramadol hydrochloride   37.5mg",내복,114
-8806698033328,669803331,디솔린주40밀리그램(메틸프레드니솔론숙시네이트나트륨)_(53.12mg/1병),1,병,1338,구주제약(주),193603BIJ,methylprednisolone sodium succinate (as methylprednisolone   40mg),주사,245
 8806698033830,669803381,쎄레브로민주(돼지뇌펩티드)_(2.152g/10mL),10,mL/앰플,7788,구주제약(주),130231BIJ,proteolytic peptide from porcine brain   2.152g(0.2152g/mL),주사,399
 8806698040838,669804080,글리미드엠정_(1정),1,정,197,구주제약(주),474300ATB,"glimepiride   2mg, metformin hydrochloride   0.5g",내복,396
 8806698040944,669804090,아세론정(아세클로페낙)_(0.1g/1정),1,정,188,구주제약(주),100901ATB,aceclofenac   0.1g,내복,114
@@ -17279,7 +17261,7 @@
 8806701036544,670103650,팜젠시메티딘정200mg(시메티딘)_(0.2g/1정),1,정,69,(주)팜젠사이언스,133301ATB,cimetidine   0.2g,내복,232
 8806701036629,670103660,펜클리어정_(1정),1,정,126,(주)팜젠사이언스,480600ATB,"acetaminophen   0.1625g, tramadol hydrochloride   18.75mg",내복,114
 8806701036711,670103670,피나프로스정(피나스테리드)_(5mg/1정),1,정,622,(주)팜젠사이언스,159001ATB,finasteride   5mg,내복,259
-8806701036834,670103680,쎌레코캡슐(세레콕시브)_(0.2g/1캡슐),1,캡슐,521,(주)팜젠사이언스,347701ACH,celecoxib   0.2g,내복,114
+8806701036834,670103680,쎌레코캡슐200밀리그램(세레콕시브)_(0.2g/1캡슐),1,캡슐,521,(주)팜젠사이언스,347701ACH,celecoxib   0.2g,내복,114
 8806701036919,670103690,올스디핀정5/20밀리그램_(1정),1,정,592,(주)팜젠사이언스,500500ATB,"amlodipine besylate (as amlodipine   5mg), olmesartan medoxomil   20mg",내복,214
 8806701037022,670103700,에소맥스정20mg(에스오메프라졸마그네슘이수화물)_(21.69mg/1정),1,정,764,(주)팜젠사이언스,367201ATB,esomeprazole magnesium (as esomeprazole   20mg),내복,232
 8806701037114,670103710,알로네이트플러스정_(1정),1,정,4528,(주)팜젠사이언스,500200ATB,"cholecalciferol concentrated powder (as vitamin D3   5.6KI.U), sodium alendronate (as alendronic acid   70mg)",내복,399
@@ -17749,7 +17731,7 @@
 8806706004913,670600490,라베스토정20밀리그램(라베프라졸나트륨)_(20mg/1정),1,정,1069,(주)휴온스,222202ATE,rabeprazole sodium   20mg,내복,232
 8806706005422,670600540,레카핀정(레르카니디핀염산염)_(10mg/1정),1,정,364,(주)휴온스,182001ATB,lercanidipine hydrochloride   10mg,내복,214
 8806706006023,670600600,"로시스정(록시트로마이신)(수출명:ROXIOTAXEtab.,INTRALID)_(0.15g/1정)",1,정,374,(주)휴온스,225301ATB,roxithromycin   0.15g,내복,614
-8806706006221,670600620,로카탄정(로사르탄칼륨)_(50mg/1정),1,정,487,(주)휴온스,185701ATB,losartan potassium (as losartan   45.8mg),내복,214
+8806706006221,670600620,로카탄정50mg(로사르탄칼륨)_(50mg/1정),1,정,487,(주)휴온스,185701ATB,losartan potassium (as losartan   45.8mg),내복,214
 8806706006740,670600671,마시주사10%(황산마그네슘수화물)_(2g/20mL),20,mL/앰플,1578,(주)휴온스,187630BIJ,magnesium sulfate   2g(0.1g/mL),주사,124
 8806706008430,670600840,"모콕스캡슐7.5밀리그람(멜록시캄)(수출명:HULOKAMCap.,HUONSHULOKAMCAPSULE)_(7.5mg/1캡슐)",1,캡슐,270,(주)휴온스,189701ACH,meloxicam   7.5mg,내복,114
 8806706008836,670600880,뮤코라민정(레바미피드)_(0.1g/1정),1,정,103,(주)휴온스,222901ATB,rebamipide   0.1g,내복,232
@@ -19580,7 +19562,6 @@
 8806939035012,693903500,액토스릴정30/4밀리그램_(1정),1,정,1224,(주)셀트리온제약,525600ATB,"glimepiride   4mg, pioglitazone hydrochloride   (as pioglitazone   30mg)",내복,396
 8806939035142,693903510,액토스정15밀리그램(피오글리타존염산염)_(16.53mg/1정),1,정,623,(주)셀트리온제약,431901ATB,pioglitazone hydrochloride (as pioglitazone   15mg),내복,396
 8806939035241,693903520,액토스정30밀리그램(피오글리타존염산염)_(33.06mg/1정),1,정,936,(주)셀트리온제약,431902ATB,pioglitazone hydrochloride (as pioglitazone   30mg),내복,396
-8806939035326,693903530,카비드츄어블정_(1정),1,정,73,(주)셀트리온제약,480200ATB,"calcium carbonate (as calcium   0.5g), cholecalciferol   400I.U",내복,321
 8806939037115,693903710,이달비정40밀리그램(아질사르탄메독소밀칼륨)_(42.68mg/1정),1,정,439,(주)셀트리온제약,662403ATB,azilsartan medoxomil potassium (as azilsartan medoxomil   40mg),내복,214
 8806939037214,693903720,이달비정80밀리그램(아질사르탄메독소밀칼륨)_(85.36mg/1정),1,정,656,(주)셀트리온제약,662402ATB,azilsartan medoxomil potassium (as azilsartan medoxomil   80mg),내복,214
 8806939037832,693903780,네시나정12.5밀리그램(알로글립틴벤조산염)_(17mg/1정),1,정,503,(주)셀트리온제약,624202ATB,alogliptin benzoate (as alogliptin   12.5mg),내복,396
@@ -20335,7 +20316,7 @@
 8806985027825,698502780,에스암로민정2.5mg(에스암로디핀베실산염2.5수화물)_(3.74mg/1정),1,정,312,(주)테라젠이텍스,483201ATB,S-amlodipine besylate (as S-amlodipine   2.5mg),내복,214
 8806985028013,698502800,넥스온정20mg (에스오메프라졸마그네슘이수화물)_(21.69mg/1정),1,정,657,(주)테라젠이텍스,367201ATB,esomeprazole magnesium (as esomeprazole   20mg),내복,232
 8806985028112,698502810,넥스온정40mg (에스오메프라졸마그네슘이수화물)_(43.38mg/1정),1,정,927,(주)테라젠이텍스,367202ATB,esomeprazole magnesium (as esomeprazole   40mg),내복,232
-8806985028723,698502870,쎄레민캡슐(세레콕시브)_(0.2g/1캡슐),1,캡슐,521,(주)테라젠이텍스,347701ACH,celecoxib   0.2g,내복,114
+8806985028723,698502870,쎄레민캡슐200밀리그램(세레콕시브)_(0.2g/1캡슐),1,캡슐,521,(주)테라젠이텍스,347701ACH,celecoxib   0.2g,내복,114
 8806985029010,698502901,자쿠텍스네오시럽(아목시실린수화물-묽은클라불란산칼륨)_(50mL),50(1),mL/병,88,(주)테라젠이텍스,536300ASY,"amoxicillin   6g(0.12g/mL), clavulanate potassium   0.429g(8.58mg/mL)",내복,618
 8806985029133,698502910,가스티렌정(애엽95%에탄올연조엑스(20→1))_(60mg/1정),1,정,90,(주)테라젠이텍스,430101ATB,artemisiae argyi folium 95% ethanol ext.(20→1)   60mg,내복,232
 8806985029324,698502930,팜시어정(팜시클로비르)_(0.25g/1정),1,정,3270,(주)테라젠이텍스,157201ATB,famciclovir   0.25g,내복,629
@@ -20464,14 +20445,16 @@
 ,051500091,"아멜리부주10밀리그램/밀리리터(라니비주맙,유전자재조합)_(2.3mg/0.23mL)",0.23,mL/병,150000,삼성바이오에피스(주),503631BIJ,ranibizumab   2.3mg(10mg/mL),주사,439
 ,051500101,"아달로체펜주40mg/0.4mL(아달리무맙,유전자재조합)_(40mg/0.4mL)",0.4,mL/펜,241917,삼성바이오에피스(주),488431BIJ,adalimumab   40mg(100mg/mL),주사,439
 ,051500111,"아달로체프리필드시린지주40mg/0.4mL(아달리무맙,유전자재조합)_(40mg/0.4mL)",0.4,mL/관,241917,삼성바이오에피스(주),488431BIJ,adalimumab   40mg(100mg/mL),주사,439
-,051500121,아필리부주40밀리그램/밀리리터(애플리버셉트)_(11.12mg/0.278mL),0.278,mL/병,298000,삼성바이오에피스(주),623931BIJ,aflibercept   11.12mg(40mg/mL),주사,439
+,051500121,아필리부주40밀리그램/밀리리터(애플리버셉트)_(11.12mg/0.278mL),0.278,mL/병,198000,삼성바이오에피스(주),623931BIJ,aflibercept   11.12mg(40mg/mL),주사,439
 ,051500131,에피스클리주(에쿨리주맙)_(0.3g/30mL),30,mL/병,2514858,삼성바이오에피스(주),588530BIJ,eculizumab   0.3g(10mg/mL),주사,639
 ,051500141,에피즈텍프리필드주(우스테키누맙)_(45mg/0.5mL),0.5,mL/관,1233376,삼성바이오에피스(주),615030BIJ,ustekinumab   45mg(90mg/mL),주사,142
 ,051500151,에피즈텍프리필드주(우스테키누맙)_(90mg/1mL),1,mL/관,1275204,삼성바이오에피스(주),615031BIJ,ustekinumab   90mg(90mg/mL),주사,142
 ,051500161,에피즈텍정맥주사(우스테키누맙)_(0.13g/26mL),26,mL/병,1278313,삼성바이오에피스(주),615032BIJ,ustekinumab   0.13g(5mg/mL),주사,142
+,051500171,아필리부프리필드시린지(애플리버셉트)_(6.6mg/0.165mL),0.165,mL/관,198000,삼성바이오에피스(주),623935BIJ,aflibercept   6.6mg(40mg/mL),주사,439
 ,051500181,아멜리부프리필드시린지(0.5mg/0.05mL)(라니비주맙)_(1.65mg/0.165mL),0.165,mL/관,149895,삼성바이오에피스(주),503632BIJ,ranibizumab   1.65mg(10mg/mL),주사,439
 ,051500191,오보덴스프리필드시린지(데노수맙)_(60mg/1mL),1,mL/관,108290,삼성바이오에피스(주),629001BIJ,denosumab   60mg(60mg/mL),주사,399
 ,051500201,엑스브릭주(데노수맙)_(0.12g/1.7mL),1.7,mL/병,129000,삼성바이오에피스(주),629002BIJ,denosumab   0.12g(70mg/mL),주사,399
+,051500211,에피즈텍프리필드펜주(우스테키누맙)_(90mg/1mL),1,mL/펜,1275204,삼성바이오에피스(주),615031BIJ,ustekinumab   90mg(90mg/mL),주사,142
 ,051600162,볼타렌에멀겔(디클로페낙디에칠암모늄)_(0.58g/50g),50,g/개,1950,(주)글락소스미스클라인컨슈머헬스케어코리아,143331CCM,diclofenac diethylammonium (as diclofenac sodium   0.5g(10mg/g)),외용,264
 ,051600350,칼트레이트디400_(1정),1,정,81,(주)글락소스미스클라인컨슈머헬스케어코리아,302600ATB,"calcium carbonate   1.5g, cholecalciferol   400I.U",내복,321
 ,051700011,엔유린오디프스산0.1밀리그램(데스모프레신아세트산염)_(0.1mg/0.45g),1,포,757,(주)코아팜바이오,141401APD,desmopressin acetate (as desmopressin   89μg),내복,241
@@ -20674,6 +20657,7 @@
 ,053301130,콕시원캡슐100밀리그램(세레콕시브)_(0.1g/1캡슐),1,캡슐,347,(주)중헌제약,347702ACH,celecoxib   0.1g,내복,114
 ,053301140,"포시아정10/100밀리그램(다파글리플로진,시타글립틴)_(1정)",1,정,846,(주)중헌제약,706900ATB,"dapagliflozin propanediol hydrate (as dapagliflozin   10mg), sitagliptin phosphate hydrate (as sitagliptin   0.1g)",내복,396
 ,053301190,리바토정20밀리그램(아토르바스타틴칼슘수화물)_(21.7mg/1정),1,정,605,(주)중헌제약,111502ATB,atorvastatin calcium (as atorvastatin   20mg),내복,218
+,053301210,탐스루신서방정0.2밀리그램(탐스로신염산염)_(0.2mg/1정),1,정,465,(주)중헌제약,234601ATR,tamsulosin hydrochloride   0.2mg,내복,259
 ,053500020,나프록소정(나프록센나트륨)_(0.275g/1정),1,정,115,오스템파마주식회사,199501ATB,naproxen sodium   0.275g,내복,114
 ,053500031,리도카글액2%(리도카인염산염수화물)_(10.65g/500mL),500,mL/병,12500,오스템파마주식회사,183938CLQ,lidocaine hydrochloride   10g(20mg/mL),외용,121
 ,053500040,세파클리캡슐(세파클러수화물)_(0.25g/1캡슐),1,캡슐,372,오스템파마주식회사,125201ACH,cefaclor hydrate   0.25g,내복,618
@@ -20813,9 +20797,11 @@
 ,054801360,케이아스피린장용정(아스피린)_(0.1g/1정),1,정,77,엔비케이제약(주),111001ATE,aspirin(enteric coated) (as aspirin   0.1g),내복,219
 ,054801410,진코에이정40밀리그램(은행엽건조엑스)_(40mg/1정),1,정,128,엔비케이제약(주),165303ATB,ginkgo biloba leaf ext.   40mg,내복,219
 ,054801510,자글로진정10/100밀리그램_(1정),1,정,846,엔비케이제약(주),706900ATB,"dapagliflozin propanediol hydrate (as dapagliflozin   10mg), sitagliptin phosphate hydrate (as sitagliptin   0.1g)",내복,396
+,054801580,실리스칸정(밀크시슬열매건조엑스)_(0.175g/1정),1,정,274,엔비케이제약(주),123908ATB,milk thistle fruit ext.  0.175g,내복,391
 ,054801600,칼앤디정_(1정),1,정,88,엔비케이제약(주),748500ATB,"thiamine nitrate   10mg, cyanocobalamin   1mg, cholecalciferol concentrated powder (as vitamin D   1KI.U), calcium citrate (as calcium   0.1g)",내복,311
 ,054801610,케실산정500밀리그램(도베실산칼슘수화물)_(0.5g/1정),1,정,276,엔비케이제약(주),148103ATB,dobesilate calcium   0.5g,내복,219
 ,054801621,시노빈엘프리필드주사(BDDE가교히알루론산나트륨겔)_(3g/3mL),3,mL/관,30570,엔비케이제약(주),526030BIJ,BDDE bridged sodium hyaluronate gel (as butanediol diglycidyl ether bridged sodium hyaluronate   60mg(20mg/mL)),주사,399
+,054801630,실리스칸정350밀리그램(밀크시슬열매건조엑스)_(0.35g/1정),1,정,401,엔비케이제약(주),123907ATB,milk thistle fruit ext.  0.35g,내복,391
 ,054801640,뉴메만틴정20밀리그램(메만틴염산염)_(20mg/1정),1,정,795,엔비케이제약(주),190005ATB,memantine hydrochloride (as memantine   16.62mg),내복,119
 ,055100040,레보원정(레보드로프로피진)_(60mg/1정),1,정,114,코스맥스파마(주),183102ATB,levodropropizine   60mg,내복,222
 ,055100050,디카본100정_(1정),1,정,85,코스맥스파마(주),498200ATB,"calcium carbonate (as calcium   0.1g), cholecalciferol   1KI.U",내복,321
@@ -20879,6 +20865,7 @@
 ,055800320,엔틱사정10밀리그램(메만틴염산염)_(10mg/1정),1,정,718,(주)셀비온,190001ATB,memantine hydrochloride (as memantine   8.31mg),내복,119
 ,055800330,엔티테리드정5밀리그램(피나스테리드)_(5mg/1정),1,정,622,(주)셀비온,159001ATB,finasteride   5mg,내복,259
 ,055800340,엔틱사정20밀리그램(메만틴염산염)_(20mg/1정),1,정,1365,(주)셀비온,190005ATB,memantine hydrochloride (as memantine   16.62mg),내복,119
+,055800420,엔틱사정5밀리그램(메만틴염산염)_(5mg/1정),1,정,428,(주)셀비온,190004ATB,memantine hydrochloride   5mg,내복,119
 ,055900031,팬포틴프리필드시린지주2000IU(에포에틴알파)_(2KI.U/0.5mL),0.5,mL/관,8770,(주)팬젠,500333BIJ,erythropoietin   2KI.U(4KI.U/mL),주사,249
 ,055900041,팬포틴프리필드시린지주4000IU(에포에틴알파)_(4KI.U/0.4mL),0.4,mL/관,14075,(주)팬젠,500337BIJ,erythropoietin   4KI.U(10KI.U/mL),주사,249
 ,055900051,팬포틴프리필드시린지주10000IU(에포에틴알파)_(10KI.U/1mL),1,mL/관,19149,(주)팬젠,500343BIJ,erythropoietin   10KI.U(10KI.U/mL),주사,249
@@ -21094,6 +21081,7 @@
 ,058801220,란소앤정30/600밀리그램_(1정),1,정,910,(주)유앤생명과학,718400ATB,"calcium carbonate(precipitated)   0.6g, lansoprazole   30mg",내복,232
 ,058801230,니세론정30밀리그램(니세르골린)_(30mg/1정),1,정,424,(주)유앤생명과학,201203ATB,nicergoline   30mg,내복,219
 ,058801270,"란소앤정15/600밀리그램(란소프라졸,침강탄산칼슘)_(1정)",1,정,619,(주)유앤생명과학,740900ATB,"calcium carbonate(precipitated)   0.6g, lansoprazole   15mg",내복,232
+,058801280,아클레어정200밀리그램(아시클로버)_(0.2g/1정),1,정,828,(주)유앤생명과학,102904ATB,acyclovir   0.2g,내복,629
 ,059000010,가스부틴정100mg(트리메부틴말레산염)_(0.1g/1정),1,정,81,주식회사케이에스제약,244301ATB,trimebutine maleate   0.1g,내복,239
 ,059000020,엑스포르정10/160밀리그램_(1정),1,정,1128,주식회사케이에스제약,495800ATB,"amlodipine besylate (as amlodipine   10mg), valsartan   0.16g",내복,214
 ,059000030,엑스포르정5/160밀리그램_(1정),1,정,988,주식회사케이에스제약,492800ATB,"amlodipine besylate (as amlodipine   5mg), valsartan   0.16g",내복,214
@@ -21415,7 +21403,6 @@
 ,073001220,올메건정20밀리그램(올메사르탄메독소밀)_(20mg/1정),1,정,354,건일바이오팜주식회사,468501ATB,olmesartan medoxomil   20mg,내복,214
 ,073001230,로프레씨알서방정(레보드로프로피진)_(90mg/1정),1,정,189,건일바이오팜주식회사,183103ATR,levodropropizine   90mg,내복,222
 ,073001240,올메건정10밀리그램(올메사르탄메독소밀)_(10mg/1정),1,정,235,건일바이오팜주식회사,468502ATB,olmesartan medoxomil   10mg,내복,214
-,073001260,타무스서방정0.2밀리그램(탐스로신염산염)_(0.2mg/1정),1,정,465,건일바이오팜주식회사,234601ATR,tamsulosin hydrochloride   0.2mg,내복,259
 ,073001270,몬테스건츄정5밀리그램(몬테루카스트나트륨)_(5.2mg/1정),1,정,658,건일바이오팜주식회사,374601ATB,montelukast sodium (as montelukast   5mg),내복,149
 ,073001280,로수토바정5밀리그램(로수바스타틴칼슘)_(5.2mg/1정),1,정,294,건일바이오팜주식회사,454003ATB,rosuvastatin calcium (as rosuvastatin   5mg),내복,218
 ,073001290,로수토바정10밀리그램(로수바스타틴칼슘)_(10.4mg/1정),1,정,520,건일바이오팜주식회사,454001ATB,rosuvastatin calcium (as rosuvastatin   10mg),내복,218
@@ -21447,6 +21434,7 @@
 ,073001670,아목크라건정375밀리그램(아목시실린-클라불란산칼륨)_(1정)                  ,1,정,300,건일바이오팜주식회사,310600ATB,"amoxicillin   0.25g, clavulanate potassium   0.125g",내복,618
 ,073001680,아목크라건정625밀리그램(아목시실린-클라불란산칼륨)_(1정),1,정,483,건일바이오팜주식회사,310700ATB,"amoxicillin   0.5g, clavulanate potassium   0.125g",내복,618
 ,073001701,바실루비산_(300g),300(1),g/통,151,건일바이오팜주식회사,738400APD,"bacillus licheniformis   75g(0.25g/g), calcium pantothenate   1.5g(5mg/g)",내복,237
+,073001730,에르건캡슐(에르도스테인)_(0.3g/1캡슐),1,캡슐,196,건일바이오팜주식회사,153101ACH,erdosteine   0.3g,내복,222
 ,073100010,코자엑스큐정5/100밀리그램_(1정),1,정,935,한국오가논(주),502700ATB,"amlodipine camsylate (as amlodipine   5mg), losartan potassium (as losartan   91.6mg)",내복,214
 ,073100020,이지트롤정(에제티미브)_(10mg/1정),1,정,737,한국오가논(주),462201ATB,ezetimibe   10mg,내복,218
 ,073100030,코자엑스큐정5/50밀리그램_(1정),1,정,780,한국오가논(주),503000ATB,"amlodipine camsylate (as amlodipine   5mg), losartan potassium (as losartan   45.8mg)",내복,214
@@ -21495,6 +21483,7 @@
 ,073200730,에이렉스정(에페리손염산염)_(50mg/1정),1,정,98,주식회사 노바엠헬스케어,152301ATB,eperisone hydrochloride   50mg,내복,122
 ,073200750,록프로정(록소프로펜나트륨수화물)_(68.1mg/1정),1,정,106,주식회사 노바엠헬스케어,186101ATB,loxoprofen sodium hydrate (as loxoprofen sodium   60mg),내복,114
 ,073200800,니세르메디정10밀리그램(니세르골린)_(10mg/1정),1,정,165,주식회사 노바엠헬스케어,201201ATB,nicergoline   10mg,내복,219
+,073200860,엔파미드서방정(레바미피드)_(0.15g/1정),1,정,170,주식회사 노바엠헬스케어,222902ATR,rebamipide   0.15g,내복,232
 ,073400021,잘라콤점안액_(2.5mL),2.5,mL/병,12690,비아트리스코리아(주),540600COS,"latanoprost   0.125mg(50μg/mL), timolol maleate (as timolol   12.5mg(5mg/mL))",외용,131
 ,073400030,"이팩사엑스알서방캡슐75밀리그램_(벤라팍신염산염, 84.85mg/1캡슐)",1,캡슐,695,비아트리스코리아(주),247502ACR,venlafaxine hydrochloride (as venlafaxine   75mg),내복,117
 ,073400040,"이팩사엑스알서방캡슐37.5밀리그램_(벤라팍신염산염, 42.43mg/1캡슐)",1,캡슐,556,비아트리스코리아(주),247504ACR,venlafaxine hydrochloride (as venlafaxine   37.5mg),내복,117
@@ -21566,6 +21555,7 @@
 ,073600124,듀오레이주사320밀리그램(요오딕사놀)_(84.76g/130mL),130,mL/병,81745,동국생명과학(주),176142BIJ,iodixanol   84.76g(0.652g/mL),주사,721
 ,073600132,듀오레이주사270밀리그램(요오딕사놀)_(27.5g/50mL),50,mL/병,29130,동국생명과학(주),176132BIJ,iodixanol   27.5g(0.55g/mL),주사,721
 ,073600133,듀오레이주사270밀리그램(요오딕사놀)_(55g/100mL),100,mL/병,58318,동국생명과학(주),176134BIJ,iodixanol   55g(0.55g/mL),주사,721
+,073600134,듀오레이주사270밀리그램(요오딕사놀)_(82.5g/150mL),150,mL/병,80936,동국생명과학(주),176136BIJ,iodixanol  82.5g(0.55g/mL),주사,721
 ,073600141,메디레이300주(이오헥솔)_(97.05g/150mL),150,mL/병,75150,동국생명과학(주),176345BIJ,iohexol   97.05g(0.647g/mL),주사,721
 ,073600142,메디레이300주(이오헥솔)_(64.7g/100mL),100,mL/병,50100,동국생명과학(주),176342BIJ,iohexol   64.7g(0.647g/mL),주사,721
 ,073600143,메디레이300주(이오헥솔)_(19.41g/30mL),30,mL/병,15030,동국생명과학(주),176335BIJ,iohexol   19.41g(0.647g/mL),주사,721
@@ -21622,20 +21612,29 @@
 ,078600020,자큐보구강붕해정20밀리그램(자스타프라잔시트르산염)_(20mg/1정),1,정,911,온코닉테라퓨틱스(주),733301ATD,zastaprazan citrate   20mg,내복,232
 ,079000011,보노라인370주(이오파미돌)_(113.295g/150mL),150,mL/병,68850,센트럴메디컬서비스(주),176546BIJ,iopamidol   113.295g(0.7553g/mL),주사,721
 ,079000021,보노라인370주(이오파미돌)_(75.53g/100mL),100,mL/병,45900,센트럴메디컬서비스(주),176541BIJ,iopamidol   75.53g(0.7553g/mL),주사,721
+,079100040,와이에스알파정1마이크로그램(알파칼시돌)_(1㎍/1정),1,정,226,(주)와이에스생명과학,104602ATB,alfacalcidol  1μg,내복,311
 ,079300010,윌리진캡슐25밀리그램(아세트산아연이수화물)_(84mg/1캡슐),1,캡슐,852,주식회사 청명약품,512001ACH,zinc acetate   25mg,내복,392
 ,079700020,메만타맥스정20밀리그램(메만틴염산염)_(20mg/1정),1,정,935,명문바이오(주),190005ATB,memantine hydrochloride (as memantine   16.62mg),내복,119
 ,079700030,푸라칸정50밀리그램(플루코나졸)_(50mg/1정),1,정,1784,명문바이오(주),159903ATB,fluconazole   50mg,내복,629
+,079900011,암부트라프리필드시린지주(부트리시란나트륨)_(26.5mg/0.5mL),0.5,mL/관,56213457,메디슨파마코리아주식회사,752601BIJ,vutrisiran sodium (as vutrisiran   25mg(50mg/mL)),주사,129
 ,080200011,엠파벨리주(페그세타코플란)_(1.08g/20mL),20,mL/병,3408625,주식회사한독소비,736901BIJ,pegcetacoplan   1.08g(54mg/mL),주사,142
 ,080600010,"산소 93(MOG-40S1, MOG-60S1)",10,L,6,주식회사 기원솔루텍,693101CSI,oxygen gas 93%   10L,외용,223
+,622805500,레바엠서방정150밀리그램(레바미피드)_(0.15g/1정),1,정,170,(주)마더스제약,222902ATR,rebamipide   0.15g,내복,232
 ,623800380,"이달디핀정40/10밀리그램(아질사르탄메독소밀칼륨,암로디핀베실산염)_(1정)",1,정,725,(주)셀트리온,749500ATB,"azilsartan medoxomil potassium (as azilsartan medoxomil   40mg), amlodipine besylate (as amlodipine   10mg)",내복,214
 ,623800390,"이달디핀정40/5밀리그램(아질사르탄메독소밀칼륨,암로디핀베실산염)_(1정)",1,정,654,(주)셀트리온,749400ATB,"azilsartan medoxomil potassium (as azilsartan medoxomil   40mg), amlodipine besylate (as amlodipine   5mg)",내복,214
 ,623800400,"이달디핀정80/10밀리그램(아질사르탄메독소밀칼륨,암로디핀베실산염)_(1정)",1,정,872,(주)셀트리온,750700ATB,"amlodipine besylate (as amlodipine   10mg), azilsartan medoxomil potassium (as azilsartan medoxomil   80mg)",내복,214
 ,623800410,"이달디핀정80/5밀리그램(아질사르탄메독소밀칼륨,암로디핀베실산염)_(1정)",1,정,801,(주)셀트리온,750600ATB,"amlodipine besylate (as amlodipine   5mg), azilsartan medoxomil potassium (as azilsartan medoxomil   80mg)",내복,214
+,623800421,옴리클로프리필드시린지주(오말리주맙)_(0.3g/2mL),2,mL/관,252200,(주)셀트리온,572905BIJ,omalizumab   0.3g(0.15g/mL),주사,149
+,624900601,"엡킨리주4mg/0.8mL(엡코리타맙,유전자재조합)_(5mg/1mL)",1,mL/병,597990,한국애브비(주),735303BIJ,epcoritamab   4mg,주사,421
+,624900611,"엡킨리주48mg/0.8mL(엡코리타맙,유전자재조합)_(60mg/1mL)",1,mL/병,6880140,한국애브비(주),735304BIJ,epcoritamab   48mg,주사,421
 ,628800270,티로미정(티로프라미드염산염)_(0.1g/1정),1,정,115,(주)휴비스트제약,240301ATB,tiropramide hydrochloride   0.1g,내복,124
 ,628800560,코자휴정50밀리그램(로사르탄칼륨)_(50mg/1정),1,정,415,(주)휴비스트제약,185701ATB,losartan potassium (as losartan   45.8mg),내복,214
 ,628801790,에제토젯정10/10밀리그램_(1정),1,정,637,(주)휴비스트제약,633800ATB,"atorvastatin calcium (as atorvastatin   10mg), ezetimibe   10mg",내복,218
 ,628801800,에제토젯정10/20밀리그램_(1정),1,정,808,(주)휴비스트제약,633900ATB,"atorvastatin calcium (as atorvastatin   20mg), ezetimibe   10mg",내복,218
 ,628801810,에제토젯정10/40밀리그램_(1정),1,정,1203,(주)휴비스트제약,634800ATB,"atorvastatin calcium (as atorvastatin   40mg), ezetimibe   10mg",내복,218
+,628902520,이든메만틴정5밀리그램(메만틴염산염)_(5mg/1정),1,정,428,(주)이든파마,190004ATB,memantine hydrochloride   5mg,내복,119
+,628902550,레바미서방정(레바미피드)_(0.15g/1정),1,정,145,(주)이든파마,222902ATR,rebamipide   0.15g,내복,232
+,628902560,알카디정1마이크로그램(알파칼시돌)_(1㎍/1정),1,정,226,(주)이든파마,104602ATB,alfacalcidol  1μg,내복,311
 ,629300015,한창멸균포비돈스왑스틱,1,개,산정불가,한창메딕,216255CDS,povidone iodine   0.15g,외용,261
 ,640008020,엑스원플러스정10/160/12.5밀리그램(암로디핀/발사르탄/클로르탈리돈)_(1정),1,정,1079,에이치케이이노엔(주),750300ATB,"amlodipine besylate (as amlodipine   10mg), chlorthalidone   12.5mg, valsartan   0.16g",내복,214
 ,640008030,엑스원플러스정10/160/25밀리그램(암로디핀/발사르탄/클로르탈리돈)_(1정),1,정,1097,에이치케이이노엔(주),750200ATB,"amlodipine besylate (as amlodipine   10mg), chlorthalidone   25mg, valsartan   0.16g",내복,214
@@ -21647,8 +21646,10 @@
 ,640904870,알파론연질캡슐0.5마이크로그램(알파칼시돌)_(0.5㎍/1캡슐),1,캡슐,227,(주)일화,104601ACS,alfacalcidol   0.5㎍,내복,311
 ,641000020,"쓰리엠스테리-가스EO카트리지_(산화에칠렌, 100g/1키트)",1,키트,산정불가,한국쓰리엠(주),408501DMS,의료용 기재등의 소독멸균,기타,732
 ,641106241,아일리아프리필드시린지8밀리그램(애플리버셉트)_(21.03mg/0.184mL),0.184,mL/관,795000,바이엘코리아(주),623936BIJ,aflibercept   21.03mg(0.11429g/mL),주사,439
+,641503160,케미파드서방정150밀리그램(레바미피드)_(0.15g/1정),1,정,145,맥널티제약(주),222902ATR,rebamipide   0.15g,내복,232
 ,641503190,칼디맥스연질캡슐(알파칼시돌)_(0.5㎍/1캡슐),1,캡슐,227,맥널티제약(주),104601ACS,alfacalcidol   0.5㎍,내복,311
 ,641608231,대웅케타민주(케타민염산염)_(0.11536g/2mL),2,mL/병,1093,(주)대웅제약,179530BIJ,ketamine hydrochloride (as ketamine   0.1g(50mg/mL)),주사,111
+,641608460,"바로에젯정1/10밀리그램(피타바스타틴칼슘수화물,에제티미브)_(1정)",1,정,1093,(주)대웅제약,752100ATB,"ezetimibe   10mg, pitavastatin calcium   1mg",내복,218
 ,641706310,카네클로질정(클로트리마졸)_(0.1g/1정),1,정,242,일양약품(주),137401CTB,clotrimazole   0.1g,외용,255
 ,641706570,알레드제로정180밀리그램(펙소페나딘염산염)_(0.18g/1정),1,정,267,일양약품(주),347902ATB,fexofenadine hydrochloride   0.18g,내복,141
 ,641908721,알림타액상주25밀리그램/밀리리터(페메트렉시드이나트륨염칠수화물)_(0.1398g/4mL),4,mL/병,142032,(주)보령,481230BIJ,pemetrexed disodium (as pemetrexed   0.1g(25mg/mL)),주사,421
@@ -21658,40 +21659,68 @@
 ,642106400,"트윈로우정20/2.5밀리그램(텔미사르탄, 암로디핀베실산염)_(1정)",1,정,524,(주)유한양행,751200ATB,"amlodipine besylate (as amlodipine   2.5mg), telmisartan   20mg",내복,214
 ,642303500,콤비신주_(1병),1,병,6423,삼성제약(주),433300BIJ,"piperacillin sodium   1g, sulbactam sodium   0.5g",주사,619
 ,642303510,콤비신주3그램_(1병),1,병,9469,삼성제약(주),453200BIJ,"piperacillin sodium   2g, sulbactam sodium   1g",주사,619
+,642405330,엘도프로캡슐(에르도스테인)_(0.3g/1캡슐),1,캡슐,196,영진약품(주),153101ACH,erdosteine   0.3g,내복,222
+,642707920,레바핀서방정150밀리그램(레바미피드)_(0.15g/1정),1,정,145,동화약품(주),222902ATR,rebamipide   0.15g,내복,232
 ,642907140,큐닌타연질캡슐100밀리그램(닌테다닙에실산염)_(0.12208g/1캡슐),1,캡슐,8500,일동제약(주),656101ACS,nintedanib esilate (as nintedanib   0.1g),내복,229
 ,642907150,큐닌타연질캡슐150밀리그램(닌테다닙에실산염)_(0.18312g/1캡슐),1,캡슐,13500,일동제약(주),656102ACS,nintedanib esilate (as nintedanib   0.15g),내복,229
+,642907170,"피타큐젯정1/10밀리그램(피타바스타틴칼슘수화물, 에제티미브)_(1정)",1,정,1093,일동제약(주),752100ATB,"ezetimibe   10mg, pitavastatin calcium   1mg",내복,218
 ,643302940,종근당세포티암주피내반응용(세포티암염산염)_(0.3mg/1병),1,병,산정불가,(주)종근당,127303BIJ,cefotiam hydrochloride   0.3mg,주사,618
 ,643309682,코데닝시럽_(20mL),20,mL/포,170,(주)종근당,532500ASY,"ammonium chloride   0.2g(10mg/mL), chlorpheniramine maleate   3mg(0.15mg/mL), dihydrocodeine tartrate   10mg(0.5mg/mL), DL-methylephedrine hydrochloride   26.2mg(1.31mg/mL)",내복,222
+,643310170,"텔미누보플러스정80/2.5/25밀리그램(텔미사르탄,에스암로디핀,클로르탈리돈)_(1정)",1,정,907,(주)종근당,749300ATB,"telmisartan   80mg, S-amlodipine nicotinate (as S-amlodipine   2.5mg), chlorthalidone   25mg",내복,214
+,643310180,"텔미누보플러스정80/2.5/12.5밀리그램(텔미사르탄,에스암로디핀,클로르탈리돈)_(1정)",1,정,889,(주)종근당,749200ATB,"telmisartan   80mg, S-amlodipine nicotinate (as S-amlodipine   2.5mg), chlorthalidone   12.5mg",내복,214
+,643310190,"텔미누보플러스정40/2.5/12.5밀리그램(텔미사르탄,에스암로디핀,클로르탈리돈)_(1정)",1,정,742,(주)종근당,749100ATB,"telmisartan   40mg, S-amlodipine nicotinate (as S-amlodipine   2.5mg), chlorthalidone   12.5mg",내복,214
+,643509071,올로타딘점안액0.2%(올로파타딘염산염)(1회용)_(1.11mg/0.5mL),0.5,mL/관,1060,한미약품(주),391746COS,olopatadine hydrochloride (as olopatadine   1mg(2mg/mL)),외용,131
 ,643606521,리브말리액(마라릭시뱃염화물)_(0.3g/30mL),30,mL/병,29002835,(주)녹십자,749901ALQ,maralixibat chloride (as maralixibat   0.285g(9.5mg/mL)),내복,391
 ,643606910,네오펙소정120밀리그램(펙소페나딘염산염)_(0.12g/1정),1,정,220,(주)녹십자,347901ATB,fexofenadine hydrochloride   0.12g,내복,141
 ,643606950,네오펙소정180밀리그램(펙소페나딘염산염)_(0.18g/1정),1,정,267,(주)녹십자,347902ATB,fexofenadine hydrochloride   0.18g,내복,141
+,643607020,네오칼시돌연질캡슐0.5마이크로그램(알파칼시돌)_(0.5㎍/1캡슐),1,캡슐,226,(주)녹십자,104601ACS,alfacalcidol   0.5㎍,내복,311
+,643607030,네오칼시돌연질캡슐1마이크로그램(알파칼시돌)_(1㎍/1캡슐),1,캡슐,226,(주)녹십자,104602ACS,alfacalcidol   1㎍,내복,311
+,643705670,안티그렐정(사르포그렐레이트염산염)_(0.1g/1정),1,정,455,국제약품(주),226101ATB,sarpogrelate hydrochloride   0.1g,내복,339
 ,643901680,포타딘액(포비돈요오드),1,mL,산정불가,삼일제약(주),216201CLQ,povidone iodine   0.1g,외용,261
 ,643904230,"원도파정12.5/50밀리그램(벤세라지드, 레보도파)_(1정)",1,정,92,삼일제약(주),722100ATB,"benserazide hydrochloride (as benserazide   12.5mg), levodopa   50mg",내복,119
 ,643904240,토파잭트정10밀리그램(토파시티닙시트르산염)_(16.155mg/1정),1,정,5815,삼일제약(주),627202ATB,tofacitinib citrate (as tofacitinib   10mg),내복,142
+,643904251,"엘라프리점안현탁액(브린졸라미드,티몰롤말레산염)(1회용)_(0.4mL)",0.4,mL/관,2000,삼일제약(주),752200COS,"brinzolamide   4mg(10mg/mL), timolol maleate (as timolol   2mg(5mg/mL))",외용,131
+,644103700,제이더블유신약레보설피리드정(레보설피리드)_(25mg/1정),1,정,101,제이더블유신약(주) ,183501ATB,levosulpiride   25mg,내복,239
 ,644309830,"실로듀오서방정200/20밀리그램(실로스타졸, 로수바스타틴)_(1정)",1,정,1732,한국유나이티드제약(주),749600ATR,"rosuvastatin calcium (as rosuvastatin   20mg), cilostazol   0.2g",내복,339
 ,644309840,"실로듀오서방정200/10밀리그램(실로스타졸, 로수바스타틴)_(1정)",1,정,1658,한국유나이티드제약(주),749700ATR,"rosuvastatin calcium (as rosuvastatin   10mg), cilostazol   0.2g",내복,339
+,644309850,"아트맥콤비젤연질캡슐20/1000밀리그램(아토르바스타틴,오메가-3-산에틸에스테르90)_(1캡슐)",1,캡슐,962,한국유나이티드제약(주),751900ACS,"atorvastatin calcium (as atorvastatin   20mg), omega-3-acid ethyl esters90   1g (as EPA ethylester   0.46g, DHA ethylester   0.38g)",내복,218
 ,644705000,조인스에프정300밀리그램(위령선·괄루근·하고초30%에탄올건조엑스(40→1))_(0.3g/1정),1,정,488,에스케이케미칼(주),416602ATB,"위령선, 괄루근, 하고초 30% ethanol ext.   0.3g",내복,114
+,644705240,"텔암클로정20/2.5/6.25밀리그램(텔미사르탄, 암로디핀, 클로르탈리돈)_(1정)",1,정,545,에스케이케미칼(주),748100ATB,"telmisartan   20mg, chlorthalidone   6.25mg, amlodipine besylate (as amlodipine   2.5mg)",내복,214
 ,644800785,무라졸덤겔(테르비나핀)_(0.35g/35g),35,g/개,8132,태극제약(주),235635CCM,terbinafine   0.35g(10mg/g),외용,265
 ,644800935,베로아크림(프레드니솔론발레로아세테이트)_(90mg/30g),30,g/개,1920,태극제약(주),217534CCM,prednisolone valeroacetate   90mg(3mg/g),외용,264
 ,645001630,에브리스디정5밀리그램(리스디플람)_(5mg/1정),1,정,793333,(주)한국로슈,724002ATB,risdiplam   5mg,내복,119
+,645001661,바비스모프리필드시린지주(파리시맙)_(21mg/0.175mL),0.175,mL/관,695857,(주)한국로슈,718102BIJ,faricimab   21mg(0.12g/mL),주사,439
+,645001671,오크레부스피하주사(오크렐리주맙)_(0.92g/1병),1,병,10752294,(주)한국로슈,734702BIJ,ocrelizumab   0.92g,주사,119
 ,645100880,대한정제수_(1000mL),1000,mL/병,산정불가,대한약품공업(주),372201CLQ,purified water,외용,719
+,645104991,"에이에취디액1호_(탄산수소나트륨, 441g/6.3L)",6.3,L/통,8327,대한약품공업(주),228505BIS,sodium bicarbonate   441g(70mg/mL),주사,341
+,645105001,디에취덱스액0.1%_(5.5L),5.5,L/통,9013,대한약품공업(주),510100BIS,"calcium chloride   42.46g(7.72mg/mL), dextrose   192.5g(35mg/mL), magnesium chloride   19.58g(3.56mg/mL), potassium chloride   28.71g(5.22mg/mL), sodium acetate   156.915g(28.53mg/mL), sodium chloride   1169.85g(0.2127g/mL)",주사,341
+,645105081,디에취덱스액0.15%1호액_(5.5L),5.5,L/통,9301,대한약품공업(주),510200BIS,"calcium chloride   35.365g(6.43mg/mL), dextrose   288.75g(52.5mg/mL), magnesium chloride   19.58g(3.56mg/mL), potassium chloride   28.71g(5.22mg/mL), sodium acetate   209.825g(38.15mg/mL), sodium chloride   1203.95g(0.2189g/mL)",주사,341
+,645307290,레바에스알서방정150밀리그램(레바미피드)_(0.15g/1정),1,정,145,한림제약(주),222902ATR,rebamipide   0.15g,내복,232
 ,645307300,"로디엔셋정80/2.5/25밀리그램(텔미사르탄, 에스암로디핀니코틴산염, 클로르탈리돈)_(1정)",1,정,876,한림제약(주),749300ATB,"telmisartan   80mg, S-amlodipine nicotinate (as S-amlodipine   2.5mg), chlorthalidone   25mg",내복,214
 ,645307310,"로디엔셋정80/2.5/12.5밀리그램(텔미사르탄, 에스암로디핀니코틴산염, 클로르탈리돈)_(1정)",1,정,858,한림제약(주),749200ATB,"telmisartan   80mg, S-amlodipine nicotinate (as S-amlodipine   2.5mg), chlorthalidone   12.5mg",내복,214
 ,645307320,"로디엔셋정40/2.5/12.5밀리그램(텔미사르탄, 에스암로디핀니코틴산염, 클로르탈리돈)_(1정)",1,정,716,한림제약(주),749100ATB,"telmisartan   40mg, S-amlodipine nicotinate (as S-amlodipine   2.5mg), chlorthalidone   12.5mg",내복,214
+,645307330,"스타젯정1/10밀리그램(피타바스타틴칼슘수화물,에제티미브)_(1정)",1,정,1093,한림제약(주),752100ATB,"ezetimibe   10mg, pitavastatin calcium   1mg",내복,218
 ,645406461,페트로자주1그램(세피데로콜토실산염황산염수화물)_(1.5638g/1병),1,병,210097,제일약품(주),750001BIJ,cefiderocol tosilate sulfate hydrate (as cefiderocol   1g),주사,612
 ,645406620,큐제타스구강붕해정20밀리그램(자스타프라잔시트르산염)_(20mg/1정),1,정,911,제일약품(주),733301ATD,zastaprazan citrate   20mg,내복,232
 ,645406630,"텔미칸에이플러스정40/5/12.5밀리그램(텔미사르탄, 암로디핀베실산염, 클로르탈리돈)_(1정)",1,정,741,제일약품(주),682700ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   12.5mg, telmisartan   40mg",내복,214
 ,645406640,"텔미칸에이플러스정80/5/12.5밀리그램(텔미사르탄, 암로디핀베실산염, 클로르탈리돈)_(1정)",1,정,888,제일약품(주),682800ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   12.5mg, telmisartan   80mg",내복,214
 ,645406650,"텔미칸에이플러스정80/5/25밀리그램(텔미사르탄, 암로디핀베실산염, 클로르탈리돈)_(1정)",1,정,906,제일약품(주),682900ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   25mg, telmisartan   80mg",내복,214
 ,645406660,텔미칸정20밀리그램(텔미사르탄)_(20mg/1정),1,정,241,제일약품(주),378803ATB,telmisartan   20mg,내복,214
+,645606040,대화레바미피드서방정150밀리그램_(0.15g/1정),1,정,145,대화제약(주),222902ATR,rebamipide   0.15g,내복,232
 ,645907640,"바로셋정5/80/12.5밀리그램(암로디핀베실산염,발사르탄,클로르탈리돈)_(1정)",1,정,840,동광제약(주),750500ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   12.5mg, valsartan   80mg",내복,214
 ,645907650,"바로셋정5/160/12.5밀리그램(암로디핀베실산염,발사르탄,클로르탈리돈)_(1정)",1,정,1023,동광제약(주),750400ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   12.5mg, valsartan   0.16g",내복,214
 ,645907660,"바로셋정10/160/12.5밀리그램(암로디핀베실산염,발사르탄,클로르탈리돈)_(1정)",1,정,1079,동광제약(주),750300ATB,"amlodipine besylate (as amlodipine   10mg), chlorthalidone   12.5mg, valsartan   0.16g",내복,214
+,645907670,"바로셋정10/160/25밀리그램(암로디핀베실산염,발사르탄,클로르탈리돈)_(1정)",1,정,1097,동광제약(주),750200ATB,"amlodipine besylate (as amlodipine   10mg), chlorthalidone   25mg, valsartan   0.16g",내복,214
+,645907690,"텔로셋정80/5/12.5밀리그램(텔미사르탄, 암로디핀베실산염, 클로르탈리돈)_(1정)",1,정,888,동광제약(주),682800ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   12.5mg, telmisartan   80mg",내복,214
+,645907700,"텔로셋정40/5/12.5밀리그램(텔미사르탄, 암로디핀베실산염, 클로르탈리돈)_(1정)",1,정,741,동광제약(주),682700ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   12.5mg, telmisartan   40mg",내복,214
+,646005890,칼시오스연질캡슐1마이크로그램(알파칼시돌)_(1㎍/1캡슐),1,캡슐,226,(주)메디카코리아,104602ACS,alfacalcidol   1㎍,내복,311
 ,646601660,크린카트에이(무수탄산나트륨)_(13g/1관),1,관,산정불가,밴티브코리아 주식회사,393301DPD,sodium carbonate anhydrous   13g,기타,341
 ,646601680,크린카트씨(무수구연산)_(32g/1관),1,관,산정불가,밴티브코리아 주식회사,408401DPD,anhydrous citric acid   32g,기타,341
 ,646902710,발베사정3밀리그램(얼다피티닙)_(3mg/1정),1,정,101000,(주)한국얀센,715601ATB,erdafitinib   3mg,내복,421
 ,646902720,발베사정4밀리그램(얼다피티닙)_(4mg/1정),1,정,101000,(주)한국얀센,715602ATB,erdafitinib   4mg,내복,421
 ,646902730,발베사정5밀리그램(얼다피티닙)_(5mg/1정),1,정,101000,(주)한국얀센,715603ATB,erdafitinib   5mg,내복,421
+,646902830,"옵신비정10/20밀리그램(마시텐탄,타다라필)_(1정)",1,정,41574,(주)한국얀센,752400ATB,"micronized macitentan   10mg, tadalafil   20mg",내복,214
+,646902840,"옵신비정10/40밀리그램(마시텐탄,타다라필)_(1정)",1,정,41574,(주)한국얀센,752500ATB,"micronized macitentan   10mg, tadalafil   40mg",내복,214
 ,647200730,코러스레보설피리드정_(25mg/1정),1,정,92,한국코러스(주),183501ATB,levosulpiride   25mg,내복,239
 ,647201210,코러스염산티로프라미드정_(0.1g/1정),1,정,115,한국코러스(주),240301ATB,tiropramide hydrochloride   0.1g,내복,124
 ,647203720,로자탈정(로사르탄칼륨)_(50mg/1정),1,정,415,한국코러스(주),185701ATB,losartan potassium (as losartan   45.8mg),내복,214
@@ -21718,16 +21747,25 @@
 ,649106160,디알파연질캡슐0.5마이크로그램(알파칼시돌)_(0.5㎍/1캡슐),1,캡슐,226,한국휴텍스제약(주),104601ACS,alfacalcidol   0.5㎍,내복,311
 ,649106170,디알파연질캡슐1.0마이크로그램(알파칼시돌)_(1㎍/1캡슐),1,캡슐,226,한국휴텍스제약(주),104602ACS,alfacalcidol   1㎍,내복,311
 ,649106210,발시클로정500밀리그램(발라시클로비르염산염수화물)_(0.5978g/1정),1,정,1187,한국휴텍스제약(주),246701ATB,valaciclovir hydrochloride (as valaciclovir   0.5g),내복,629
+,649508760,자이머정5밀리그램(메만틴염산염)_(5mg/1정),1,정,428,유니메드제약(주),190004ATB,memantine hydrochloride   5mg,내복,119
 ,649606521,브리모점안액(브리모니딘타르타르산염)(1회용)_(0.45mg/0.3mL),0.3,mL/관,701,대우제약(주),118434COS,brimonidine tartrate   0.45mg(1.5mg/mL),외용,131
 ,649606531,브리모점안액(브리모니딘타르타르산염)_(9mg/6mL),6,mL/병,8939,대우제약(주),118435COS,brimonidine tartrate   9mg(1.5mg/mL),외용,131
 ,649900380,"유비트정100밀리그람_(요소(¹³C), 0.1g/1정)",1,정,산정불가,한국오츠카제약(주),376701ATB,urea(13C)   0.1g,내복,725
+,650201650,알파시돌연질캡슐1마이크로그램(알파칼시돌)_(1㎍/1캡슐),1,캡슐,226,안국약품(주),104602ACS,alfacalcidol   1㎍,내복,311
+,650206200,알파시돌연질캡슐0.5마이크로그램(알파칼시돌)_(0.5㎍/1캡슐),1,캡슐,204,안국약품(주),104601ACS,alfacalcidol   0.5㎍,내복,311
 ,650701391,이뮤도주(트레멜리무맙)_(0.3g/15mL),15,mL/병,16500000,한국아스트라제네카(주),734602BIJ,tremelimumab   0.3g(20mg/mL),주사,421
+,651206280,무코프로서방정150밀리그램(레바미피드)_(0.15g/1정),1,정,145,삼천당제약(주),222902ATR,rebamipide   0.15g,내복,232
 ,651504231,하원레보플록사신주(레보플록사신수화물)_(0.76869g/150mL),150,mL/병,18429,(주)하원제약,183235BIJ,levofloxacin   0.75g(5mg/mL),주사,629
 ,652001620,레주록정200밀리그램(벨루모수딜메실산염(미분화))_(0.2425g/1정),1,정,424742,(주)사노피-아벤티스코리아,737301ATB,belumosudil mesylate(micronized) (as belumosudil   0.2g),내복,142
+,652607470,카비드츄어블정_(1정),1,정,73,알보젠코리아(주),480200ATB,"calcium carbonate (as calcium   0.5g), cholecalciferol   400I.U",내복,321
+,652607480,에자틴정5밀리그램(메만틴염산염)_(5mg/1정),1,정,503,알보젠코리아(주),190004ATB,memantine hydrochloride   5mg,내복,119
 ,653000460,한국파마염산리도카인젤리2%,1,g,산정불가,(주)한국파마,183902CCM,lidocaine hydrochloride   20mg,외용,121
 ,653000870,베타딘액(포비돈요오드),1,mL,산정불가,(주)한국파마,216201CLQ,povidone iodine   0.1g,외용,261
 ,653000890,베타딘세정액(포비돈요오드),1,mL,산정불가,(주)한국파마,216206CLQ,povidone iodine   75mg,외용,261
 ,653103880,텔바로오디정40밀리그램(텔미사르탄)_(40mg/1정),1,정,382,(주)비씨월드제약,378801ATD,telmisartan   40mg,내복,214
+,653301220,바다넴정300밀리그램(바다두스타트)_(0.3g/1정),1,정,3343,타나베파마코리아주식회사,720601ATB,vadadustat  0.3g,내복,339
+,653301230,바다넴정150밀리그램(바다두스타트)_(0.15g/1정),1,정,2229,타나베파마코리아주식회사,720602ATB,vadadustat  0.15g,내복,339
+,653405031,위나지액(알긴산나트륨)_(1.25g/25mL),25,mL/포,234,동국제약(주),109932ALQ,sodium alginate   1.25g(50mg/mL),내복,232
 ,653406210,비카돌연질캡슐0.5마이크로그램(알파칼시돌)_(0.5㎍/1캡슐),1,캡슐,226,동국제약(주),104601ACS,alfacalcidol   0.5㎍,내복,311
 ,653406220,비카돌연질캡슐1마이크로그램(알파칼시돌)_(1㎍/1캡슐),1,캡슐,226,동국제약(주),104602ACS,alfacalcidol   1㎍,내복,311
 ,653806540,"자누엑스알서방정100/1000밀리그램(시타글립틴,메트포르민)_(1정)",1,정,572,신일제약(주),709500ATR,"metformin hydrochloride   1g, sitagliptin hydrochloride hydrate (as sitagliptin   0.1g)",내복,396
@@ -21739,7 +21777,14 @@
 ,654400641,오젬픽프리필드펜(세마글루티드)_(2.01mg/1.5mL),1.5,mL/관,73528,노보노디스크제약(주),708601BIJ,semaglutide   2.01mg(1.34mg/mL),주사,396
 ,654400651,오젬픽프리필드펜(세마글루티드)_(4.02mg/3mL),3,mL/관,139703,노보노디스크제약(주),708602BIJ,semaglutide   4.02mg(1.34mg/mL),주사,396
 ,654700430,아소로펜정(록소프로펜나트륨수화물)_(68.1mg/1정),1,정,125,케이엠에스제약(주),186101ATB,loxoprofen sodium hydrate (as loxoprofen sodium   60mg),내복,114
+,655404830,일성레바서방정(레바미피드)_(0.15g/1정),1,정,145,일성아이에스(주),222902ATR,rebamipide   0.15g,내복,232
+,655404840,"피에젯타정1/10밀리그램(피타바스타틴칼슘수화물,에제티미브)_(1정)",1,정,1093,일성아이에스(주),752100ATB,"ezetimibe   10mg, pitavastatin calcium   1mg",내복,218
+,655605710,알파본디정1마이크로그램(알파칼시돌)_(1㎍/1정),1,정,226,한올바이오파마(주),104602ATB,alfacalcidol  1μg,내복,311
 ,656001050,알리코염산리도카인젤리2%,1,mL,산정불가,알리코제약(주),183902CCM,lidocaine hydrochloride   20mg,외용,121
+,656005900,"암로칸데정16/5밀리그램(칸데사르탄실렉세틸,에스암로디핀베실산염)_(1정)",1,정,878,알리코제약(주),743800ATB,"candesartan cilexetil   16mg, S-amlodipine besylate (as S-amlodipine   5mg)",내복,214
+,656005910,"암로칸데정8/2.5밀리그램(칸데사르탄실렉세틸,에스암로디핀베실산염)_(1정)",1,정,650,알리코제약(주),744000ATB,"candesartan cilexetil   8mg, S-amlodipine besylate (as S-amlodipine   2.5mg)",내복,214
+,656005920,"암로칸데정16/2.5밀리그램(칸데사르탄실렉세틸,에스암로디핀베실산염)_(1정)",1,정,827,알리코제약(주),743900ATB,"candesartan cilexetil   16mg, S-amlodipine besylate (as S-amlodipine   2.5mg)",내복,214
+,656005960,크레스정2.5밀리그램(로수바스타틴칼슘)_(2.6mg/1정),1,정,217,알리코제약(주),454005ATB,rosuvastatin calcium (as rosuvastatin   2.5mg),내복,218
 ,656800010,다이아그노스틱알러젠익스트렉트_(0.2mL/2mL),2,mL/병,산정불가,(주)신광신약,388801BIJ,allergen ext. 1종   0.2mL(0.1mL/mL),주사,149
 ,656800080,캄프리헨시브스킨테스트캐비넷_(0.2mL/2mL),2,mL/병,산정불가,(주)신광신약,388801BIJ,allergen ext. 1종   0.2mL(0.1mL/mL),주사,149
 ,657204350,토파시즈정10밀리그램(토파시티닙시트르산염)_(16.155mg/1정),1,정,8307,환인제약(주),627202ATB,tofacitinib citrate (as tofacitinib   10mg),내복,142
@@ -21766,30 +21811,44 @@
 ,658700910,레블리미드캡슐20밀리그램(레날리도마이드)_(20mg/1캡슐),1,캡슐,93018,(유)한국비엠에스제약,588207ACH,lenalidomide   20mg,내복,421
 ,658700920,레블리미드캡슐2.5밀리그램(레날리도마이드)_(2.5mg/1캡슐),1,캡슐,51141,(유)한국비엠에스제약,588205ACH,lenalidomide   2.5mg,내복,421
 ,660704040,비탐디연질캡슐0.5마이크로그램(알파칼시돌)_(0.5㎍/1캡슐),1,캡슐,227,위더스제약(주),104601ACS,alfacalcidol   0.5㎍,내복,311
+,660704050,만티니정5밀리그램(메만틴염산염)_(5mg/1정),1,정,428,위더스제약(주),190004ATB,memantine hydrochloride   5mg,내복,119
+,661605930,알피디연질캡슐0.5마이크로그램(알파칼시돌)_(0.5㎍/1캡슐),1,캡슐,227,(주)알피바이오,104601ACS,alfacalcidol   0.5㎍,내복,311
+,662505201,카립트현탁액(폴리스티렌설폰산칼슘)_(5g/20mL),20,mL/포,790,(주)넥스팜코리아,215430ASS,polystyrene sulfonate calcium   5g(0.25g/mL),내복,219
+,663608920,"엠글리토정10/5밀리그램(엠파글리플로진, 리나글립틴)_(1정)",1,정,755,한국프라임제약(주),696900ATB,"empagliflozin   10mg, linagliptin   5mg",내복,396
+,663608930,"엠글리토정25/5밀리그램(엠파글리플로진, 리나글립틴)_(1정)",1,정,858,한국프라임제약(주),697000ATB,"empagliflozin   25mg, linagliptin   5mg",내복,396
 ,663608990,프란카정50밀리그램(프란루카스트수화물)_(50mg/1정),1,정,526,한국프라임제약(주),216408ATB,pranlukast hydrate   50mg,내복,149
 ,664000391,"글루카겐하이포키트주_(글루카곤, 1mg/키트)",1,mg/키트,63657,한국희귀필수의약품센터,749801BIJ,glucagon hydrochloride (as glucagon   1mg),주사,396
 ,664000601,"바크시미나잘스프레이_(글루카곤, 3mg/통)",3,mg/통,206785,한국희귀필수의약품센터,166002CSI,glucagon   3mg,외용,396
+,664001621,"아길러스주120mg_(단트롤렌나트륨3.5수화물, 0.12g/1병)",1,병,1322820,한국희귀필수의약품센터,752301BIJ,dantrolene sodium hemiheptahydrate   0.12g,주사,399
 ,664100290,동인당포비돈요오드액,1,mL,산정불가,하이플생명과학(주),216201CLQ,povidone iodine   0.1g,외용,261
 ,664100960,엔젤카인스프레이(리도카인),1,mL,산정불가,하이플생명과학(주),183801CSI,lidocaine   0.1g,외용,121
 ,664101070,와이덱스액2%(글루타랄콘센트레이트),1,mL,산정불가,하이플생명과학(주),393501CLQ,glutaraldehyde   20mg,외용,732
-,664101430,베라틴스크랍액(포비돈요오드),1,mL,산정불가,하이플생명과학(주),216206CDS,povidone iodine   75mg,외용,261
-,664101450,크린핸스크랍(클로르헥시딘글루콘산염액)_(5mL/25mL),25,mL/포,산정불가,하이플생명과학(주),131311CDS,chlorhexidine gluconate solution   5mL(0.2mL/mL),외용,261
 ,664101750,헥시덱스5%액(클로르헥시딘글루콘산염액),1,mL,산정불가,하이플생명과학(주),131304CLQ,chlorhexidine gluconate solution   0.25ml,외용,261
 ,664602880,디카맥스비정_(1정),1,정,85,(주)다림바이오텍,749000ATB,"folic acid   1mg, cyanocobalamin   1.5mg, cholecalciferol concentrated granule (as cholecalciferol   1KI.U), calcium carbonate (as calcium  0.1g)",내복,319
 ,668903410,네폭실캡슐500mg(구연산제이철수화물)_(0.5g/1캡슐),1,캡슐,377,(주)엘지화학,710501ACH,ferric citrate hydrate   0.5g,내복,219
 ,669605670,아이펜틴캡슐300밀리그램(가바펜틴)_(0.3g/1캡슐),1,캡슐,346,(주)아이월드제약,164202ACH,gabapentin   0.3g,내복,113
+,669908570,무코란서방정150밀리그램(레바미피드)_(0.15g/1정),1,정,145,대한뉴팜(주),222902ATR,rebamipide   0.15g,내복,232
 ,670305170,코투스정50밀리그램(프란루카스트수화물(미분화))_(50mg/1정),1,정,447,코오롱제약(주),216408ATB,pranlukast hydrate   50mg,내복,149
+,670305190,알파코연질캡슐0.5마이크로그램(알파칼시돌)_(0.5㎍/1캡슐),1,캡슐,226,코오롱제약(주),104601ACS,alfacalcidol   0.5㎍,내복,311
+,670305200,알파코연질캡슐1마이크로그램(알파칼시돌)_(1㎍/1캡슐),1,캡슐,226,코오롱제약(주),104602ACS,alfacalcidol   1㎍,내복,311
 ,670400030,스코테린액(과아세트산액0.13%)_(4000mL),4000,mL/통,산정불가,(주)휴온스메디텍,485102CLQ,peroxyacetic acid   5.2g,외용,732
 ,670400100,"헤모크린액(과아세트산액)(수출명: Hemoclean, Hemoclean G)_(5000g/5L)",5,l/통,산정불가,(주)휴온스메디텍,485101CLQ,peroxyacetic acid   5450g,외용,732
 ,670501590,푸루코날정150밀리그램(플루코나졸)_(0.15g/1정),1,정,1760,(주)보령바이오파마,159905ATB,fluconazole   0.15g,내복,629
+,670609690,뮤코라민서방정150밀리그램(레바미피드)_(0.15g/1정),1,정,170,(주)휴온스,222902ATR,rebamipide   0.15g,내복,232
 ,670609710,로카탄정25밀리그램(로사르탄칼륨)_(25mg/1정),1,정,325,(주)휴온스,185703ATB,losartan potassium (as losartan   22.9mg),내복,214
+,671808210,"트윈클로정40/5/12.5밀리그램(텔미사르탄,암로디핀,클로르탈리돈)_(1정)",1,정,741,대원제약(주),682700ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   12.5mg, telmisartan   40mg",내복,214
+,671808220,"트윈클로정80/5/12.5밀리그램(텔미사르탄,암로디핀,클로르탈리돈)_(1정)",1,정,888,대원제약(주),682800ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   12.5mg, telmisartan   80mg",내복,214
 ,672400113,"캐리엠아이비지(131I)주사액_(3-요오도벤질구아니딘(131I), 111MBq(3mCi)/1병)",1,병,354914,한국원자력연구원,472710BIJ,3-iodobenzylguanidine(131I)   111MBq(3 mCi),주사,431
 ,673400480,제이세파캡슐250밀리그램(세파클러수화물)_(0.25g/1캡슐),1,캡슐,372,주식회사큐엘파마,125201ACH,cefaclor hydrate   0.25g,내복,618
 ,674102091,와이히알루론산나트륨플러스주_(20mg/2mL),2,mL/관,15299,(주)옵투스제약,530045BIJ,sodium hyaluronate   20mg(10mg/mL),주사,399
 ,674102101,와이히알루론산나트륨주_(25mg/2.5mL),2.5,mL/관,10002,(주)옵투스제약,530046BIJ,sodium hyaluronate   25mg(10mg/mL),주사,399
+,677200330,엑스탄디정40밀리그램(엔잘루타마이드)_(40mg/1정),1,정,14167,한국아스텔라스제약(주),627401ATB,enzalutamide  40mg,내복,421
+,677200340,엑스탄디정80밀리그램(엔잘루타마이드)_(80mg/1정),1,정,21251,한국아스텔라스제약(주),627402ATB,enzalutamide  80mg,내복,421
+,677200350,"베솜니서방정6/0.4밀리그램(솔리페나신숙신산염,탐스로신염산염)_(1정)",1,정,1381,한국아스텔라스제약(주),748800ATR,"solifenacin succinate  6mg, tamsulosin hydrochloride  0.4mg",내복,259
 ,678602210,뉴마프로정(리마프로스트알파덱스)_(0.16667mg/1정),1,정,274,(주)다산제약,184101ATB,limaprost α-cyclodextrin (as limaprost   5μg),내복,219
 ,678602230,안티그라정100밀리그램(사르포그렐레이트염산염)_(0.1g/1정),1,정,437,(주)다산제약,226101ATB,sarpogrelate hydrochloride   0.1g,내복,339
 ,678602240,뉴타미가서방정50밀리그램(미라베그론)_(50mg/1정),1,정,324,(주)다산제약,625701ATR,mirabegron   50mg,내복,259
+,678602250,안티그라서방정300밀리그램(사르포그렐레이트염산염)_(0.3g/1정),1,정,858,(주)다산제약,226103ATR,sarpogrelate hydrochloride   0.3g,내복,339
 ,678602260,조코토린정10/10밀리그램_(1정),1,정,666,(주)다산제약,471000ATB,"ezetimibe   10mg, simvastatin   10mg",내복,218
 ,678602270,조코토린정10/20밀리그램_(1정),1,정,931,(주)다산제약,471100ATB,"ezetimibe   10mg, simvastatin   20mg",내복,218
 ,678602320,프리텐션정20밀리그램(텔미사르탄)_(20mg/1정),1,정,284,(주)다산제약,378803ATB,telmisartan   20mg,내복,214
@@ -21799,13 +21858,20 @@
 ,681000050,큐앤큐포비돈탈지면볼(중)(포비돈요오드),1,개,산정불가,(주)큐앤큐팜,216214CDS,povidone iodine   10g,외용,261
 ,681000140,큐앤큐포비돈거즈볼-중(포비돈요오드),1,개,산정불가,(주)큐앤큐팜,216214CDS,povidone iodine   10g,외용,261
 ,681600110,제트케이나스프레이액(리도카인),1,mL,산정불가,일청상사,183801CSI,lidocaine   0.1g,외용,121
+,693202720,클래린정500밀리그램(클래리트로마이신)_(0.5g/1정),1,정,1097,(주)킵스바이오파마,134904ATB,clarithromycin   0.5g,내복,619
 ,693904070,"셀토젯정10/5밀리그램(에제티미브,아토르바스타틴)_(1정)",1,정,541,(주)셀트리온제약,721300ATB,"atorvastatin calcium (as atorvastatin   5mg), ezetimibe   10mg",내복,218
+,693904080,메모틴정5밀리그램(메만틴염산염)_(5mg/1정),1,정,428,(주)셀트리온제약,190004ATB,memantine hydrochloride   5mg,내복,119
+,693904090,"셀미트리정80/5/25밀리그램(텔미사르탄,암로디핀,클로르탈리돈)_(1정)",1,정,770,(주)셀트리온제약,682900ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   25mg, telmisartan   80mg",내복,214
+,693904100,"셀미트리정80/5/12.5밀리그램(텔미사르탄,암로디핀,클로르탈리돈)_(1정)",1,정,755,(주)셀트리온제약,682800ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   12.5mg, telmisartan   80mg",내복,214
+,693904110,"셀미트리정40/5/12.5밀리그램(텔미사르탄,암로디핀,클로르탈리돈)_(1정)",1,정,630,(주)셀트리온제약,682700ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   12.5mg, telmisartan   40mg",내복,214
 ,694004570,"몬테레보정(몬테루카스트나트륨,레보세티리진염산염)_(1정)",1,정,886,대웅바이오(주),659900ATB,"levocetirizine dihydrochloride   5mg, montelukast sodium (as montelukast   10mg)",내복,149
 ,694004580,니세르코드정10밀리그램(니세르골린)_(10mg/1정),1,정,165,대웅바이오(주),201201ATB,nicergoline   10mg,내복,219
 ,694004590,위시드캡슐150밀리그램(니자티딘)_(0.15g/1캡슐),1,캡슐,303,대웅바이오(주),202701ACH,nizatidine   0.15g,내복,232
 ,694004610,"트루베타정80/5/25밀리그램(텔미사르탄,암로디핀,클로르탈리돈)_(1정)",1,정,770,대웅바이오(주),682900ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   25mg, telmisartan   80mg",내복,214
 ,694004620,"트루베타정40/5/12.5밀리그램(텔미사르탄,암로디핀,클로르탈리돈)_(1정)",1,정,630,대웅바이오(주),682700ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   12.5mg, telmisartan   40mg",내복,214
 ,694004630,"트루베타정80/5/12.5밀리그램(텔미사르탄,암로디핀,클로르탈리돈)_(1정)",1,정,755,대웅바이오(주),682800ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   12.5mg, telmisartan   80mg",내복,214
+,694004640,글리빅사정5밀리그램(메만틴염산염)_(5mg/1정),1,정,503,대웅바이오(주),190004ATB,memantine hydrochloride   5mg,내복,119
+,694004650,지스원맥스정250밀리그램(아지트로마이신수화물)_(0.26203g/1정),1,정,932,대웅바이오(주),112701ATB,azithromycin   0.25g,내복,614
 ,694004680,본알파연질캡슐0.5마이크로그램(알파칼시돌)_(0.5㎍/1캡슐),1,캡슐,227,대웅바이오(주),104601ACS,alfacalcidol   0.5㎍,내복,311
 ,696300751,탁자이로프리필드시린지주300mg(라나델루맙)_(0.3g/2mL),2,mL/관,11500000,한국다케다제약(주),729901BIJ,lanadelumab   0.3g(0.15g/mL),주사,219
 ,698004860,"텔로핀셋정80/5/25밀리그램(텔미사르탄,암로디핀베실산염,클로르탈리돈)_(1정)",1,정,906,(주)제뉴파마,682900ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   25mg, telmisartan   80mg",내복,214
@@ -21813,8 +21879,11 @@
 ,698004880,"텔로핀셋정40/5/12.5밀리그램(텔미사르탄,암로디핀베실산염,클로르탈리돈)_(1정)",1,정,741,(주)제뉴파마,682700ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   12.5mg, telmisartan   40mg",내복,214
 ,698004890,"텔로핀셋정80/5/12.5밀리그램(텔미사르탄,암로디핀베실산염,클로르탈리돈)_(1정)",1,정,888,(주)제뉴파마,682800ATB,"amlodipine besylate (as amlodipine   5mg), chlorthalidone   12.5mg, telmisartan   80mg",내복,214
 ,698505090,에페시나서방정(에페리손염산염)_(75mg/1정),1,정,162,(주)테라젠이텍스,152302ATR,eperisone hydrochloride   75mg,내복,122
+,698505100,페노피브정160밀리그램(페노피브레이트)_(0.16g/1정),1,정,303,(주)테라젠이텍스,194930ATB,fenofibrate(micronized)   0.16g,내복,218
 ,698505120,테라칼시돌연질캡슐0.5마이크로그램(알파칼시돌)_(0.5㎍/1캡슐),1,캡슐,226,(주)테라젠이텍스,104601ACS,alfacalcidol   0.5㎍,내복,311
 ,698505130,테라칼시돌연질캡슐1마이크로그램(알파칼시돌)_(1㎍/1캡슐),1,캡슐,226,(주)테라젠이텍스,104602ACS,alfacalcidol   1㎍,내복,311
 ,698505140,메만젠정5밀리그램(메만틴염산염)_(5mg/1정),1,정,428,(주)테라젠이텍스,190004ATB,memantine hydrochloride   5mg,내복,119
 ,698505150,가바텍스캡슐300밀리그램(가바펜틴)_(0.3g/1캡슐),1,캡슐,346,(주)테라젠이텍스,164202ACH,gabapentin   0.3g,내복,113
 ,698505160,가바텍스캡슐100밀리그램(가바펜틴)_(0.1g/1캡슐),1,캡슐,168,(주)테라젠이텍스,164201ACH,gabapentin   0.1g,내복,113
+,698505180,가바민서방정150밀리그램(레바미피드)_(0.15g/1정),1,정,170,(주)테라젠이텍스,222902ATR,rebamipide   0.15g,내복,232
+,698505190,푸란투스정(프란루카스트수화물)_(50mg/1정),1,정,447,(주)테라젠이텍스,216408ATB,pranlukast hydrate   50mg,내복,149
